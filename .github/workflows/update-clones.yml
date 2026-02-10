@@ -97,15 +97,24 @@ jobs:
           # 4) Create output directories on the metrics branch
           mkdir -p badges stats
 
-          # 5) Write Shields-compatible JSON files.
-          # These files are then read by shields.io to render badges in README.
-          jq -n --arg msg "$total_uniques" \
-            '{schemaVersion:1,label:"unique clones (14d)",message:$msg,color:"blue"}' \
+          # 5) Write Shields endpoint JSON files.
+          # IMPORTANT:
+          # - When using img.shields.io/endpoint, keep JSON minimal:
+          #   schemaVersion, label, message.
+          # - Colors and links are better handled in the badge URL / Markdown.
+
+          # Badge 1: all repos | <total_uniques>
+          jq -n \
+            --arg msg "$total_uniques" \
+            '{schemaVersion:1,label:"all repos",message:$msg}' \
             > badges/clones-total.json
 
-          top_msg="${top_repo}: ${top_uniques}"
-          jq -n --arg msg "$top_msg" \
-            '{schemaVersion:1,label:"top repo (14d)",message:$msg,color:"blue"}' \
+          # Badge 2: top repo | <repo> | <uniques>
+          top_msg="${top_repo} | ${top_uniques}"
+
+          jq -n \
+            --arg msg "$top_msg" \
+            '{schemaVersion:1,label:"top repo",message:$msg}' \
             > badges/clones-top.json
 
           # Extra: store full per-repo list (useful later for tables, charts, etc.)
