@@ -1,8 +1,8 @@
 [
   {
     "repo": "Various-API-Standards",
-    "uniques": 57,
-    "count": 139
+    "uniques": 53,
+    "count": 117
   },
   {
     "repo": "2D-sandbox",
@@ -16,8 +16,13 @@
   },
   {
     "repo": "Unity-Platformer",
-    "uniques": 5,
-    "count": 5
+    "uniques": 6,
+    "count": 6
+  },
+  {
+    "repo": "UE-Tanks",
+    "uniques": 4,
+    "count": 4
   },
   {
     "repo": "POSIX-lab",
@@ -30,17 +35,12 @@
     "count": 4
   },
   {
-    "repo": "Design-Patterns",
-    "uniques": 4,
-    "count": 5
-  },
-  {
     "repo": "ChatApplication",
     "uniques": 4,
     "count": 4
   },
   {
-    "repo": "UE-Tanks",
+    "repo": "WebApi-Auth",
     "uniques": 3,
     "count": 3
   },
@@ -50,9 +50,9 @@
     "count": 3
   },
   {
-    "repo": "WebApi-Auth",
-    "uniques": 2,
-    "count": 2
+    "repo": "Design-Patterns",
+    "uniques": 3,
+    "count": 4
   },
   {
     "repo": "spotify-telegram-bot",
