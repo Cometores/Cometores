@@ -1,23 +1,23 @@
 [
   {
     "repo": "Various-API-Standards",
-    "uniques": 58,
-    "count": 157
+    "uniques": 63,
+    "count": 177
   },
   {
     "repo": ".NET-toolbox",
-    "uniques": 8,
-    "count": 9
-  },
-  {
-    "repo": "Unity-Platformer",
-    "uniques": 5,
-    "count": 5
+    "uniques": 22,
+    "count": 44
   },
   {
     "repo": "2D-sandbox",
     "uniques": 5,
     "count": 5
+  },
+  {
+    "repo": "Unity-Platformer",
+    "uniques": 4,
+    "count": 4
   },
   {
     "repo": "UE-Tanks",
@@ -47,7 +47,12 @@
   {
     "repo": "Design-Patterns",
     "uniques": 3,
-    "count": 4
+    "count": 3
+  },
+  {
+    "repo": "UE-Shooter",
+    "uniques": 2,
+    "count": 2
   },
   {
     "repo": "spotify-telegram-bot",
@@ -65,22 +70,17 @@
     "count": 2
   },
   {
-    "repo": "Microsoft-Setup",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "Casino-TDD",
     "uniques": 2,
     "count": 2
   },
   {
-    "repo": "UE-Shooter",
+    "repo": "parallax-js",
     "uniques": 1,
     "count": 1
   },
   {
-    "repo": "parallax-js",
+    "repo": "Microsoft-Setup",
     "uniques": 1,
     "count": 1
   }
