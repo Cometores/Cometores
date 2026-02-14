@@ -6,13 +6,8 @@
   },
   {
     "repo": ".NET-toolbox",
-    "uniques": 22,
-    "count": 44
-  },
-  {
-    "repo": "2D-sandbox",
-    "uniques": 5,
-    "count": 5
+    "uniques": 23,
+    "count": 49
   },
   {
     "repo": "Unity-Platformer",
@@ -35,7 +30,12 @@
     "count": 4
   },
   {
-    "repo": "WebApi-Auth",
+    "repo": "2D-sandbox",
+    "uniques": 4,
+    "count": 4
+  },
+  {
+    "repo": "react-forum",
     "uniques": 3,
     "count": 3
   },
@@ -50,6 +50,11 @@
     "count": 3
   },
   {
+    "repo": "WebApi-Auth",
+    "uniques": 2,
+    "count": 2
+  },
+  {
     "repo": "UE-Shooter",
     "uniques": 2,
     "count": 2
@@ -61,11 +66,6 @@
   },
   {
     "repo": "react-web-store",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "react-forum",
     "uniques": 2,
     "count": 2
   },
