@@ -1,18 +1,18 @@
 [
   {
     "repo": "Various-API-Standards",
-    "uniques": 73,
-    "count": 240
+    "uniques": 72,
+    "count": 243
   },
   {
     "repo": ".NET-toolbox",
-    "uniques": 23,
-    "count": 63
+    "uniques": 24,
+    "count": 65
   },
   {
     "repo": "FBlockEXE",
     "uniques": 6,
-    "count": 8
+    "count": 9
   },
   {
     "repo": "Unity-Platformer",
@@ -22,15 +22,10 @@
   {
     "repo": "Design-Patterns",
     "uniques": 4,
-    "count": 4
+    "count": 5
   },
   {
     "repo": "ChatApplication",
-    "uniques": 4,
-    "count": 4
-  },
-  {
-    "repo": "Casino-TDD",
     "uniques": 4,
     "count": 4
   },
@@ -40,17 +35,12 @@
     "count": 4
   },
   {
-    "repo": "UE-Tanks",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "react-forum",
-    "uniques": 3,
-    "count": 3
-  },
-  {
     "repo": "POSIX-lab",
+    "uniques": 3,
+    "count": 3
+  },
+  {
+    "repo": "Casino-TDD",
     "uniques": 3,
     "count": 3
   },
@@ -60,7 +50,17 @@
     "count": 2
   },
   {
+    "repo": "UE-Tanks",
+    "uniques": 2,
+    "count": 2
+  },
+  {
     "repo": "UE-Shooter",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "react-forum",
     "uniques": 2,
     "count": 2
   },
