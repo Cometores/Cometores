@@ -2,22 +2,22 @@
   {
     "repo": "Various-API-Standards",
     "uniques": 67,
-    "count": 236
+    "count": 235
   },
   {
     "repo": ".NET-toolbox",
-    "uniques": 25,
-    "count": 66
+    "uniques": 24,
+    "count": 65
+  },
+  {
+    "repo": "Unity-Platformer",
+    "uniques": 5,
+    "count": 5
   },
   {
     "repo": "FBlockEXE",
     "uniques": 5,
     "count": 8
-  },
-  {
-    "repo": "Unity-Platformer",
-    "uniques": 4,
-    "count": 4
   },
   {
     "repo": "Design-Patterns",
@@ -36,11 +36,6 @@
   },
   {
     "repo": "Casino-TDD",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "2D-sandbox",
     "uniques": 3,
     "count": 3
   },
@@ -71,6 +66,11 @@
   },
   {
     "repo": "parallax-js",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "2D-sandbox",
     "uniques": 2,
     "count": 2
   },
