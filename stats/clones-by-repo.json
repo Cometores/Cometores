@@ -10,11 +10,6 @@
     "count": 65
   },
   {
-    "repo": "Unity-Platformer",
-    "uniques": 5,
-    "count": 5
-  },
-  {
     "repo": "FBlockEXE",
     "uniques": 5,
     "count": 8
@@ -30,7 +25,7 @@
     "count": 4
   },
   {
-    "repo": "POSIX-lab",
+    "repo": "Unity-Platformer",
     "uniques": 3,
     "count": 3
   },
@@ -70,17 +65,22 @@
     "count": 2
   },
   {
-    "repo": "2D-sandbox",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "spotify-telegram-bot",
     "uniques": 1,
     "count": 1
   },
   {
+    "repo": "POSIX-lab",
+    "uniques": 1,
+    "count": 1
+  },
+  {
     "repo": "Microsoft-Setup",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "2D-sandbox",
     "uniques": 1,
     "count": 1
   }
