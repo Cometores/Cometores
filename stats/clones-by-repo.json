@@ -1,18 +1,18 @@
 [
   {
     "repo": "Various-API-Standards",
-    "uniques": 40,
+    "uniques": 41,
     "count": 152
   },
   {
     "repo": ".NET-toolbox",
     "uniques": 25,
-    "count": 66
+    "count": 65
   },
   {
     "repo": "Unity-Platformer",
-    "uniques": 7,
-    "count": 38
+    "uniques": 6,
+    "count": 37
   },
   {
     "repo": "FBlockEXE",
@@ -20,12 +20,32 @@
     "count": 8
   },
   {
+    "repo": "react-web-store",
+    "uniques": 3,
+    "count": 3
+  },
+  {
     "repo": "Design-Patterns",
     "uniques": 3,
     "count": 4
   },
   {
-    "repo": "UE-Tanks",
+    "repo": "2D-sandbox",
+    "uniques": 3,
+    "count": 3
+  },
+  {
+    "repo": "spotify-telegram-bot",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "react-forum",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "POSIX-lab",
     "uniques": 2,
     "count": 2
   },
@@ -40,37 +60,17 @@
     "count": 2
   },
   {
-    "repo": "2D-sandbox",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "WebApi-Auth",
     "uniques": 1,
     "count": 1
   },
   {
+    "repo": "UE-Tanks",
+    "uniques": 1,
+    "count": 1
+  },
+  {
     "repo": "UE-Shooter",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "spotify-telegram-bot",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "react-web-store",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "react-forum",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "POSIX-lab",
     "uniques": 1,
     "count": 1
   },
