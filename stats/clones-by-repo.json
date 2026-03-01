@@ -1,8 +1,13 @@
 [
   {
+    "repo": "parallax-js",
+    "uniques": 12,
+    "count": 19
+  },
+  {
     "repo": "Various-API-Standards",
-    "uniques": 21,
-    "count": 74
+    "uniques": 10,
+    "count": 18
   },
   {
     "repo": "Unity-Platformer",
@@ -11,8 +16,8 @@
   },
   {
     "repo": ".NET-toolbox",
-    "uniques": 7,
-    "count": 21
+    "uniques": 8,
+    "count": 16
   },
   {
     "repo": "FBlockEXE",
@@ -21,11 +26,6 @@
   },
   {
     "repo": "react-web-store",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "parallax-js",
     "uniques": 3,
     "count": 3
   },
