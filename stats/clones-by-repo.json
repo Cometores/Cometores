@@ -1,13 +1,18 @@
 [
   {
+    "repo": "2D-sandbox",
+    "uniques": 16,
+    "count": 40
+  },
+  {
     "repo": "parallax-js",
     "uniques": 12,
     "count": 19
   },
   {
     "repo": "Various-API-Standards",
-    "uniques": 10,
-    "count": 14
+    "uniques": 11,
+    "count": 12
   },
   {
     "repo": "Unity-Platformer",
@@ -16,8 +21,8 @@
   },
   {
     "repo": ".NET-toolbox",
-    "uniques": 8,
-    "count": 13
+    "uniques": 7,
+    "count": 9
   },
   {
     "repo": "react-web-store",
@@ -30,7 +35,12 @@
     "count": 4
   },
   {
-    "repo": "2D-sandbox",
+    "repo": "react-forum",
+    "uniques": 3,
+    "count": 3
+  },
+  {
+    "repo": "POSIX-lab",
     "uniques": 3,
     "count": 3
   },
@@ -40,14 +50,9 @@
     "count": 2
   },
   {
-    "repo": "react-forum",
+    "repo": "Design-Patterns",
     "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "POSIX-lab",
-    "uniques": 2,
-    "count": 2
+    "count": 3
   },
   {
     "repo": "ChatApplication",
@@ -73,11 +78,6 @@
     "repo": "UE-Shooter",
     "uniques": 1,
     "count": 1
-  },
-  {
-    "repo": "Design-Patterns",
-    "uniques": 1,
-    "count": 2
   },
   {
     "repo": "Microsoft-Setup",
