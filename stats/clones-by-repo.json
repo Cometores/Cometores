@@ -5,32 +5,27 @@
     "count": 40
   },
   {
+    "repo": "Unity-Platformer",
+    "uniques": 15,
+    "count": 48
+  },
+  {
     "repo": "parallax-js",
     "uniques": 12,
     "count": 19
   },
   {
     "repo": "Various-API-Standards",
-    "uniques": 11,
-    "count": 12
-  },
-  {
-    "repo": "Unity-Platformer",
-    "uniques": 9,
-    "count": 40
+    "uniques": 8,
+    "count": 8
   },
   {
     "repo": ".NET-toolbox",
-    "uniques": 7,
-    "count": 9
+    "uniques": 5,
+    "count": 7
   },
   {
     "repo": "react-web-store",
-    "uniques": 4,
-    "count": 4
-  },
-  {
-    "repo": "FBlockEXE",
     "uniques": 4,
     "count": 4
   },
@@ -45,6 +40,11 @@
     "count": 3
   },
   {
+    "repo": "FBlockEXE",
+    "uniques": 3,
+    "count": 3
+  },
+  {
     "repo": "spotify-telegram-bot",
     "uniques": 2,
     "count": 2
@@ -52,7 +52,7 @@
   {
     "repo": "Design-Patterns",
     "uniques": 2,
-    "count": 3
+    "count": 2
   },
   {
     "repo": "ChatApplication",
