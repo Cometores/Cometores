@@ -30,12 +30,12 @@
     "count": 6
   },
   {
-    "repo": "FBlockEXE",
-    "uniques": 5,
-    "count": 5
+    "repo": "react-web-store",
+    "uniques": 4,
+    "count": 4
   },
   {
-    "repo": "react-web-store",
+    "repo": "FBlockEXE",
     "uniques": 4,
     "count": 4
   },
@@ -65,17 +65,17 @@
     "count": 2
   },
   {
-    "repo": "ChatApplication",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "WebApi-Auth",
     "uniques": 1,
     "count": 1
   },
   {
     "repo": "UE-Tanks",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "ChatApplication",
     "uniques": 1,
     "count": 1
   },
