@@ -6,16 +6,16 @@
   },
   {
     "repo": "parallax-js",
-    "uniques": 13,
-    "count": 20
-  },
-  {
-    "repo": "Unity-Platformer",
     "uniques": 11,
-    "count": 13
+    "count": 18
   },
   {
     "repo": ".NET-toolbox",
+    "uniques": 10,
+    "count": 12
+  },
+  {
+    "repo": "Unity-Platformer",
     "uniques": 9,
     "count": 11
   },
@@ -50,11 +50,6 @@
     "count": 2
   },
   {
-    "repo": "react-forum",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "ChatApplication",
     "uniques": 2,
     "count": 2
@@ -71,6 +66,11 @@
   },
   {
     "repo": "spotify-telegram-bot",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "react-forum",
     "uniques": 1,
     "count": 1
   },
