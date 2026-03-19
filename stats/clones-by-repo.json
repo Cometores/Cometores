@@ -31,13 +31,18 @@
   },
   {
     "repo": "FBlockEXE",
-    "uniques": 5,
-    "count": 5
+    "uniques": 4,
+    "count": 4
   },
   {
     "repo": "Design-Patterns",
-    "uniques": 4,
-    "count": 5
+    "uniques": 3,
+    "count": 4
+  },
+  {
+    "repo": "parallax-js",
+    "uniques": 2,
+    "count": 2
   },
   {
     "repo": "WebApi-Auth",
@@ -66,11 +71,6 @@
   },
   {
     "repo": "POSIX-lab",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "parallax-js",
     "uniques": 1,
     "count": 1
   },
