@@ -5,22 +5,17 @@
     "count": 11
   },
   {
-    "repo": "2D-sandbox",
-    "uniques": 7,
-    "count": 7
-  },
-  {
-    "repo": "UE-Shooter",
+    "repo": "Various-API-Standards",
     "uniques": 6,
     "count": 6
   },
   {
-    "repo": "Various-API-Standards",
-    "uniques": 5,
-    "count": 5
+    "repo": "2D-sandbox",
+    "uniques": 6,
+    "count": 6
   },
   {
-    "repo": "Unity-Platformer",
+    "repo": "UE-Shooter",
     "uniques": 5,
     "count": 5
   },
@@ -30,9 +25,14 @@
     "count": 5
   },
   {
-    "repo": "FBlockEXE",
+    "repo": "Unity-Platformer",
     "uniques": 4,
     "count": 4
+  },
+  {
+    "repo": "FBlockEXE",
+    "uniques": 3,
+    "count": 3
   },
   {
     "repo": "Design-Patterns",
@@ -41,6 +41,16 @@
   },
   {
     "repo": "parallax-js",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "ChatApplication",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "Casino-TDD",
     "uniques": 2,
     "count": 2
   },
@@ -71,16 +81,6 @@
   },
   {
     "repo": "POSIX-lab",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "ChatApplication",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "Casino-TDD",
     "uniques": 1,
     "count": 1
   }
