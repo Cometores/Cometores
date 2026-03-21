@@ -1,8 +1,8 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 10,
-    "count": 11
+    "uniques": 8,
+    "count": 8
   },
   {
     "repo": "Various-API-Standards",
@@ -10,9 +10,9 @@
     "count": 6
   },
   {
-    "repo": "2D-sandbox",
-    "uniques": 6,
-    "count": 6
+    "repo": "Unity-Platformer",
+    "uniques": 5,
+    "count": 5
   },
   {
     "repo": "UE-Shooter",
@@ -20,12 +20,12 @@
     "count": 5
   },
   {
-    "repo": "Microsoft-Setup",
+    "repo": "2D-sandbox",
     "uniques": 5,
     "count": 5
   },
   {
-    "repo": "Unity-Platformer",
+    "repo": "Microsoft-Setup",
     "uniques": 4,
     "count": 4
   },
