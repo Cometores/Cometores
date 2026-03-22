@@ -1,11 +1,11 @@
 [
   {
-    "repo": ".NET-toolbox",
-    "uniques": 8,
-    "count": 8
+    "repo": "2D-sandbox",
+    "uniques": 6,
+    "count": 6
   },
   {
-    "repo": "Various-API-Standards",
+    "repo": ".NET-toolbox",
     "uniques": 6,
     "count": 6
   },
@@ -15,19 +15,19 @@
     "count": 5
   },
   {
-    "repo": "UE-Shooter",
-    "uniques": 5,
-    "count": 5
+    "repo": "Various-API-Standards",
+    "uniques": 4,
+    "count": 4
   },
   {
-    "repo": "2D-sandbox",
-    "uniques": 5,
-    "count": 5
+    "repo": "parallax-js",
+    "uniques": 3,
+    "count": 3
   },
   {
     "repo": "Microsoft-Setup",
-    "uniques": 4,
-    "count": 4
+    "uniques": 3,
+    "count": 3
   },
   {
     "repo": "FBlockEXE",
@@ -40,17 +40,12 @@
     "count": 4
   },
   {
-    "repo": "parallax-js",
-    "uniques": 2,
-    "count": 2
+    "repo": "Casino-TDD",
+    "uniques": 3,
+    "count": 3
   },
   {
     "repo": "ChatApplication",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "Casino-TDD",
     "uniques": 2,
     "count": 2
   },
@@ -61,6 +56,11 @@
   },
   {
     "repo": "UE-Tanks",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "UE-Shooter",
     "uniques": 1,
     "count": 1
   },
