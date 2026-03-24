@@ -1,8 +1,8 @@
 [
   {
     "repo": "Unity-Platformer",
-    "uniques": 6,
-    "count": 6
+    "uniques": 8,
+    "count": 8
   },
   {
     "repo": ".NET-toolbox",
@@ -11,6 +11,11 @@
   },
   {
     "repo": "Various-API-Standards",
+    "uniques": 5,
+    "count": 5
+  },
+  {
+    "repo": "parallax-js",
     "uniques": 5,
     "count": 5
   },
@@ -25,24 +30,29 @@
     "count": 5
   },
   {
-    "repo": "parallax-js",
-    "uniques": 3,
-    "count": 3
-  },
-  {
     "repo": "FBlockEXE",
-    "uniques": 3,
-    "count": 3
+    "uniques": 4,
+    "count": 4
   },
   {
     "repo": "Design-Patterns",
-    "uniques": 3,
+    "uniques": 4,
     "count": 4
   },
   {
     "repo": "Casino-TDD",
     "uniques": 3,
     "count": 3
+  },
+  {
+    "repo": "UE-Tanks",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "react-web-store",
+    "uniques": 2,
+    "count": 2
   },
   {
     "repo": "POSIX-lab",
@@ -60,22 +70,12 @@
     "count": 1
   },
   {
-    "repo": "UE-Tanks",
-    "uniques": 1,
-    "count": 1
-  },
-  {
     "repo": "UE-Shooter",
     "uniques": 1,
     "count": 1
   },
   {
     "repo": "spotify-telegram-bot",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "react-web-store",
     "uniques": 1,
     "count": 1
   },
