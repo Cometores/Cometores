@@ -5,6 +5,11 @@
     "count": 8
   },
   {
+    "repo": "2D-sandbox",
+    "uniques": 6,
+    "count": 6
+  },
+  {
     "repo": ".NET-toolbox",
     "uniques": 6,
     "count": 6
@@ -15,29 +20,29 @@
     "count": 5
   },
   {
-    "repo": "parallax-js",
-    "uniques": 5,
-    "count": 5
-  },
-  {
-    "repo": "Microsoft-Setup",
-    "uniques": 5,
-    "count": 5
-  },
-  {
-    "repo": "2D-sandbox",
-    "uniques": 5,
-    "count": 5
-  },
-  {
     "repo": "FBlockEXE",
-    "uniques": 4,
-    "count": 4
+    "uniques": 5,
+    "count": 5
   },
   {
     "repo": "Design-Patterns",
+    "uniques": 5,
+    "count": 5
+  },
+  {
+    "repo": "parallax-js",
     "uniques": 4,
     "count": 4
+  },
+  {
+    "repo": "Microsoft-Setup",
+    "uniques": 4,
+    "count": 4
+  },
+  {
+    "repo": "ChatApplication",
+    "uniques": 3,
+    "count": 3
   },
   {
     "repo": "Casino-TDD",
@@ -45,7 +50,17 @@
     "count": 3
   },
   {
+    "repo": "WebApi-Auth",
+    "uniques": 2,
+    "count": 2
+  },
+  {
     "repo": "UE-Tanks",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "spotify-telegram-bot",
     "uniques": 2,
     "count": 2
   },
@@ -60,22 +75,7 @@
     "count": 2
   },
   {
-    "repo": "ChatApplication",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "WebApi-Auth",
-    "uniques": 1,
-    "count": 1
-  },
-  {
     "repo": "UE-Shooter",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "spotify-telegram-bot",
     "uniques": 1,
     "count": 1
   },
