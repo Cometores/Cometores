@@ -16,8 +16,8 @@
   },
   {
     "repo": ".NET-toolbox",
-    "uniques": 7,
-    "count": 7
+    "uniques": 6,
+    "count": 6
   },
   {
     "repo": "FBlockEXE",
@@ -26,6 +26,11 @@
   },
   {
     "repo": "Design-Patterns",
+    "uniques": 5,
+    "count": 5
+  },
+  {
+    "repo": "Casino-TDD",
     "uniques": 5,
     "count": 5
   },
@@ -43,16 +48,6 @@
     "repo": "Microsoft-Setup",
     "uniques": 4,
     "count": 4
-  },
-  {
-    "repo": "ChatApplication",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "Casino-TDD",
-    "uniques": 3,
-    "count": 3
   },
   {
     "repo": "WebApi-Auth",
@@ -75,12 +70,17 @@
     "count": 2
   },
   {
-    "repo": "UE-Shooter",
-    "uniques": 1,
-    "count": 1
+    "repo": "react-forum",
+    "uniques": 2,
+    "count": 2
   },
   {
-    "repo": "react-forum",
+    "repo": "ChatApplication",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "UE-Shooter",
     "uniques": 1,
     "count": 1
   }
