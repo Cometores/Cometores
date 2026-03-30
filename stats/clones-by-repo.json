@@ -1,26 +1,26 @@
 [
   {
+    "repo": "unity-editor-tools",
+    "uniques": 20,
+    "count": 30
+  },
+  {
     "repo": "2D-sandbox",
-    "uniques": 11,
-    "count": 11
+    "uniques": 9,
+    "count": 9
   },
   {
     "repo": "Unity-Platformer",
-    "uniques": 8,
-    "count": 8
-  },
-  {
-    "repo": "Various-API-Standards",
     "uniques": 7,
     "count": 7
   },
   {
-    "repo": "Casino-TDD",
+    "repo": "Various-API-Standards",
     "uniques": 6,
     "count": 6
   },
   {
-    "repo": "FBlockEXE",
+    "repo": "parallax-js",
     "uniques": 5,
     "count": 5
   },
@@ -30,17 +30,22 @@
     "count": 5
   },
   {
+    "repo": "Casino-TDD",
+    "uniques": 5,
+    "count": 5
+  },
+  {
+    "repo": "spotify-telegram-bot",
+    "uniques": 4,
+    "count": 4
+  },
+  {
     "repo": "POSIX-lab",
     "uniques": 4,
     "count": 4
   },
   {
-    "repo": "parallax-js",
-    "uniques": 4,
-    "count": 4
-  },
-  {
-    "repo": "Microsoft-Setup",
+    "repo": "FBlockEXE",
     "uniques": 4,
     "count": 4
   },
@@ -60,9 +65,19 @@
     "count": 3
   },
   {
-    "repo": "spotify-telegram-bot",
+    "repo": "react-forum",
     "uniques": 3,
     "count": 3
+  },
+  {
+    "repo": "Microsoft-Setup",
+    "uniques": 3,
+    "count": 3
+  },
+  {
+    "repo": "UE-Shooter",
+    "uniques": 2,
+    "count": 2
   },
   {
     "repo": "react-web-store",
@@ -70,23 +85,8 @@
     "count": 2
   },
   {
-    "repo": "react-forum",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "ChatApplication",
     "uniques": 2,
     "count": 2
-  },
-  {
-    "repo": "UE-Shooter",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "unity-editor-tools",
-    "uniques": 0,
-    "count": 0
   }
 ]
