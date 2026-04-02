@@ -25,7 +25,7 @@
     "count": 6
   },
   {
-    "repo": "parallax-js",
+    "repo": "Design-Patterns",
     "uniques": 6,
     "count": 6
   },
@@ -45,12 +45,17 @@
     "count": 5
   },
   {
+    "repo": "parallax-js",
+    "uniques": 5,
+    "count": 5
+  },
+  {
     "repo": "Microsoft-Setup",
     "uniques": 5,
     "count": 5
   },
   {
-    "repo": "Design-Patterns",
+    "repo": "FBlockEXE",
     "uniques": 5,
     "count": 5
   },
@@ -60,12 +65,7 @@
     "count": 4
   },
   {
-    "repo": "FBlockEXE",
-    "uniques": 4,
-    "count": 4
-  },
-  {
-    "repo": "ChatApplication",
+    "repo": "react-forum",
     "uniques": 4,
     "count": 4
   },
@@ -85,7 +85,7 @@
     "count": 3
   },
   {
-    "repo": "react-forum",
+    "repo": "ChatApplication",
     "uniques": 3,
     "count": 3
   }
