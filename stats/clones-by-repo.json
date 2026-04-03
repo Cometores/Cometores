@@ -10,34 +10,24 @@
     "count": 38
   },
   {
-    "repo": "Various-API-Standards",
-    "uniques": 8,
-    "count": 8
+    "repo": "Unity-Platformer",
+    "uniques": 9,
+    "count": 9
   },
   {
-    "repo": "Unity-Platformer",
+    "repo": ".NET-toolbox",
     "uniques": 8,
-    "count": 8
+    "count": 9
+  },
+  {
+    "repo": "Various-API-Standards",
+    "uniques": 7,
+    "count": 7
   },
   {
     "repo": "spotify-telegram-bot",
     "uniques": 6,
     "count": 6
-  },
-  {
-    "repo": "Design-Patterns",
-    "uniques": 6,
-    "count": 6
-  },
-  {
-    "repo": "Casino-TDD",
-    "uniques": 6,
-    "count": 6
-  },
-  {
-    "repo": ".NET-toolbox",
-    "uniques": 6,
-    "count": 7
   },
   {
     "repo": "POSIX-lab",
@@ -56,6 +46,16 @@
   },
   {
     "repo": "FBlockEXE",
+    "uniques": 5,
+    "count": 5
+  },
+  {
+    "repo": "Design-Patterns",
+    "uniques": 5,
+    "count": 5
+  },
+  {
+    "repo": "Casino-TDD",
     "uniques": 5,
     "count": 5
   },
