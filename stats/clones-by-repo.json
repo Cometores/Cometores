@@ -6,8 +6,8 @@
   },
   {
     "repo": "2D-sandbox",
-    "uniques": 20,
-    "count": 38
+    "uniques": 22,
+    "count": 40
   },
   {
     "repo": "Unity-Platformer",
@@ -30,21 +30,6 @@
     "count": 6
   },
   {
-    "repo": "UE-Shooter",
-    "uniques": 5,
-    "count": 5
-  },
-  {
-    "repo": "POSIX-lab",
-    "uniques": 5,
-    "count": 5
-  },
-  {
-    "repo": "parallax-js",
-    "uniques": 5,
-    "count": 5
-  },
-  {
     "repo": "Microsoft-Setup",
     "uniques": 5,
     "count": 5
@@ -60,12 +45,12 @@
     "count": 5
   },
   {
-    "repo": "Casino-TDD",
-    "uniques": 5,
-    "count": 5
+    "repo": "WebApi-Auth",
+    "uniques": 4,
+    "count": 4
   },
   {
-    "repo": "WebApi-Auth",
+    "repo": "UE-Shooter",
     "uniques": 4,
     "count": 4
   },
@@ -75,12 +60,27 @@
     "count": 4
   },
   {
-    "repo": "react-forum",
+    "repo": "POSIX-lab",
+    "uniques": 4,
+    "count": 4
+  },
+  {
+    "repo": "parallax-js",
+    "uniques": 4,
+    "count": 4
+  },
+  {
+    "repo": "Casino-TDD",
     "uniques": 4,
     "count": 4
   },
   {
     "repo": "UE-Tanks",
+    "uniques": 3,
+    "count": 3
+  },
+  {
+    "repo": "react-forum",
     "uniques": 3,
     "count": 3
   },
