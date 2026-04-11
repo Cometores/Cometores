@@ -1,8 +1,8 @@
 [
   {
     "repo": "unity-editor-tools",
-    "uniques": 27,
-    "count": 39
+    "uniques": 28,
+    "count": 40
   },
   {
     "repo": "2D-sandbox",
@@ -10,17 +10,17 @@
     "count": 40
   },
   {
-    "repo": "UE-Tanks",
-    "uniques": 6,
-    "count": 6
-  },
-  {
     "repo": ".NET-toolbox",
-    "uniques": 6,
-    "count": 7
+    "uniques": 7,
+    "count": 8
   },
   {
-    "repo": "spotify-telegram-bot",
+    "repo": "UE-Tanks",
+    "uniques": 5,
+    "count": 5
+  },
+  {
+    "repo": "Microsoft-Setup",
     "uniques": 5,
     "count": 5
   },
@@ -40,7 +40,7 @@
     "count": 4
   },
   {
-    "repo": "Microsoft-Setup",
+    "repo": "spotify-telegram-bot",
     "uniques": 4,
     "count": 4
   },
@@ -55,14 +55,14 @@
     "count": 3
   },
   {
-    "repo": "Various-API-Standards",
+    "repo": "react-web-store",
     "uniques": 3,
     "count": 3
   },
   {
-    "repo": "react-web-store",
-    "uniques": 3,
-    "count": 3
+    "repo": "Various-API-Standards",
+    "uniques": 2,
+    "count": 2
   },
   {
     "repo": "react-forum",
