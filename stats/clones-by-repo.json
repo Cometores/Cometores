@@ -6,8 +6,8 @@
   },
   {
     "repo": "2D-sandbox",
-    "uniques": 22,
-    "count": 40
+    "uniques": 21,
+    "count": 38
   },
   {
     "repo": ".NET-toolbox",
@@ -50,14 +50,14 @@
     "count": 4
   },
   {
-    "repo": "WebApi-Auth",
+    "repo": "react-web-store",
     "uniques": 3,
     "count": 3
   },
   {
-    "repo": "react-web-store",
-    "uniques": 3,
-    "count": 3
+    "repo": "WebApi-Auth",
+    "uniques": 2,
+    "count": 2
   },
   {
     "repo": "Various-API-Standards",
