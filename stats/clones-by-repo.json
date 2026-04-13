@@ -1,18 +1,23 @@
 [
   {
-    "repo": "unity-editor-tools",
-    "uniques": 28,
-    "count": 40
-  },
-  {
     "repo": "2D-sandbox",
     "uniques": 21,
     "count": 38
   },
   {
+    "repo": "unity-editor-tools",
+    "uniques": 10,
+    "count": 11
+  },
+  {
     "repo": ".NET-toolbox",
-    "uniques": 7,
-    "count": 8
+    "uniques": 8,
+    "count": 9
+  },
+  {
+    "repo": "Microsoft-Setup",
+    "uniques": 6,
+    "count": 6
   },
   {
     "repo": "UE-Tanks",
@@ -20,22 +25,12 @@
     "count": 5
   },
   {
-    "repo": "Microsoft-Setup",
-    "uniques": 5,
-    "count": 5
-  },
-  {
-    "repo": "FBlockEXE",
-    "uniques": 5,
-    "count": 5
-  },
-  {
-    "repo": "Unity-Platformer",
+    "repo": "Various-API-Standards",
     "uniques": 4,
     "count": 4
   },
   {
-    "repo": "UE-Shooter",
+    "repo": "Unity-Platformer",
     "uniques": 4,
     "count": 4
   },
@@ -45,12 +40,22 @@
     "count": 4
   },
   {
-    "repo": "Design-Patterns",
+    "repo": "react-web-store",
     "uniques": 4,
     "count": 4
   },
   {
-    "repo": "react-web-store",
+    "repo": "FBlockEXE",
+    "uniques": 4,
+    "count": 4
+  },
+  {
+    "repo": "react-forum",
+    "uniques": 3,
+    "count": 3
+  },
+  {
+    "repo": "Design-Patterns",
     "uniques": 3,
     "count": 3
   },
@@ -60,12 +65,12 @@
     "count": 2
   },
   {
-    "repo": "Various-API-Standards",
+    "repo": "UE-Shooter",
     "uniques": 2,
     "count": 2
   },
   {
-    "repo": "react-forum",
+    "repo": "POSIX-lab",
     "uniques": 2,
     "count": 2
   },
@@ -81,11 +86,6 @@
   },
   {
     "repo": "Casino-TDD",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "POSIX-lab",
     "uniques": 1,
     "count": 1
   }
