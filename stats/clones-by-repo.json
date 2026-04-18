@@ -1,8 +1,18 @@
 [
   {
-    "repo": "unity-editor-tools",
-    "uniques": 12,
+    "repo": ".NET-toolbox",
+    "uniques": 11,
     "count": 13
+  },
+  {
+    "repo": "Various-API-Standards",
+    "uniques": 10,
+    "count": 11
+  },
+  {
+    "repo": "unity-editor-tools",
+    "uniques": 10,
+    "count": 11
   },
   {
     "repo": "2D-sandbox",
@@ -10,37 +20,32 @@
     "count": 10
   },
   {
-    "repo": "Various-API-Standards",
-    "uniques": 8,
-    "count": 8
-  },
-  {
     "repo": "UE-Tanks",
     "uniques": 8,
     "count": 8
   },
   {
-    "repo": ".NET-toolbox",
-    "uniques": 8,
-    "count": 8
+    "repo": "FBlockEXE",
+    "uniques": 7,
+    "count": 7
   },
   {
-    "repo": "FBlockEXE",
+    "repo": "spotify-telegram-bot",
     "uniques": 6,
     "count": 6
   },
   {
     "repo": "Microsoft-Setup",
+    "uniques": 6,
+    "count": 6
+  },
+  {
+    "repo": "Unity-Platformer",
     "uniques": 5,
     "count": 5
   },
   {
-    "repo": "Unity-Platformer",
-    "uniques": 4,
-    "count": 4
-  },
-  {
-    "repo": "spotify-telegram-bot",
+    "repo": "WebApi-Auth",
     "uniques": 4,
     "count": 4
   },
@@ -50,19 +55,29 @@
     "count": 4
   },
   {
-    "repo": "WebApi-Auth",
+    "repo": "Design-Patterns",
+    "uniques": 4,
+    "count": 4
+  },
+  {
+    "repo": "UE-Shooter",
     "uniques": 3,
     "count": 3
   },
   {
-    "repo": "UE-Shooter",
-    "uniques": 2,
-    "count": 2
+    "repo": "react-forum",
+    "uniques": 3,
+    "count": 3
   },
   {
     "repo": "POSIX-lab",
-    "uniques": 2,
-    "count": 2
+    "uniques": 3,
+    "count": 3
+  },
+  {
+    "repo": "Casino-TDD",
+    "uniques": 3,
+    "count": 3
   },
   {
     "repo": "parallax-js",
@@ -70,23 +85,8 @@
     "count": 2
   },
   {
-    "repo": "Design-Patterns",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "Casino-TDD",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "react-forum",
-    "uniques": 1,
-    "count": 1
-  },
-  {
     "repo": "ChatApplication",
-    "uniques": 1,
-    "count": 1
+    "uniques": 2,
+    "count": 2
   }
 ]
