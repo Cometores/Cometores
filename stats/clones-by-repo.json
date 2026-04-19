@@ -1,5 +1,10 @@
 [
   {
+    "repo": "unity-editor-tools",
+    "uniques": 12,
+    "count": 13
+  },
+  {
     "repo": ".NET-toolbox",
     "uniques": 11,
     "count": 13
@@ -10,19 +15,14 @@
     "count": 11
   },
   {
-    "repo": "unity-editor-tools",
-    "uniques": 10,
-    "count": 11
-  },
-  {
-    "repo": "2D-sandbox",
-    "uniques": 10,
-    "count": 10
-  },
-  {
     "repo": "UE-Tanks",
     "uniques": 8,
     "count": 8
+  },
+  {
+    "repo": "spotify-telegram-bot",
+    "uniques": 7,
+    "count": 7
   },
   {
     "repo": "FBlockEXE",
@@ -30,9 +30,9 @@
     "count": 7
   },
   {
-    "repo": "spotify-telegram-bot",
-    "uniques": 6,
-    "count": 6
+    "repo": "2D-sandbox",
+    "uniques": 7,
+    "count": 7
   },
   {
     "repo": "Microsoft-Setup",
@@ -40,17 +40,12 @@
     "count": 6
   },
   {
-    "repo": "Unity-Platformer",
-    "uniques": 5,
-    "count": 5
-  },
-  {
     "repo": "WebApi-Auth",
     "uniques": 4,
     "count": 4
   },
   {
-    "repo": "react-web-store",
+    "repo": "Unity-Platformer",
     "uniques": 4,
     "count": 4
   },
@@ -61,6 +56,11 @@
   },
   {
     "repo": "UE-Shooter",
+    "uniques": 3,
+    "count": 3
+  },
+  {
+    "repo": "react-web-store",
     "uniques": 3,
     "count": 3
   },
