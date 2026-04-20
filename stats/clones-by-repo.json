@@ -2,7 +2,7 @@
   {
     "repo": "unity-editor-tools",
     "uniques": 12,
-    "count": 13
+    "count": 12
   },
   {
     "repo": ".NET-toolbox",
@@ -30,14 +30,14 @@
     "count": 7
   },
   {
-    "repo": "2D-sandbox",
-    "uniques": 7,
-    "count": 7
+    "repo": "Microsoft-Setup",
+    "uniques": 5,
+    "count": 5
   },
   {
-    "repo": "Microsoft-Setup",
-    "uniques": 6,
-    "count": 6
+    "repo": "2D-sandbox",
+    "uniques": 5,
+    "count": 5
   },
   {
     "repo": "WebApi-Auth",
