@@ -1,10 +1,5 @@
 [
   {
-    "repo": "unity-editor-tools",
-    "uniques": 12,
-    "count": 12
-  },
-  {
     "repo": ".NET-toolbox",
     "uniques": 11,
     "count": 13
@@ -15,9 +10,14 @@
     "count": 11
   },
   {
-    "repo": "UE-Tanks",
-    "uniques": 8,
-    "count": 8
+    "repo": "unity-editor-tools",
+    "uniques": 10,
+    "count": 10
+  },
+  {
+    "repo": "Unity-Platformer",
+    "uniques": 9,
+    "count": 11
   },
   {
     "repo": "spotify-telegram-bot",
@@ -30,12 +30,12 @@
     "count": 7
   },
   {
-    "repo": "Microsoft-Setup",
+    "repo": "UE-Tanks",
     "uniques": 5,
     "count": 5
   },
   {
-    "repo": "2D-sandbox",
+    "repo": "Microsoft-Setup",
     "uniques": 5,
     "count": 5
   },
@@ -45,12 +45,12 @@
     "count": 4
   },
   {
-    "repo": "Unity-Platformer",
+    "repo": "Design-Patterns",
     "uniques": 4,
     "count": 4
   },
   {
-    "repo": "Design-Patterns",
+    "repo": "2D-sandbox",
     "uniques": 4,
     "count": 4
   },
