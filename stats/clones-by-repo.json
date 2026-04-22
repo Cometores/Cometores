@@ -10,14 +10,14 @@
     "count": 11
   },
   {
-    "repo": "unity-editor-tools",
-    "uniques": 10,
-    "count": 10
-  },
-  {
     "repo": "Unity-Platformer",
     "uniques": 9,
     "count": 11
+  },
+  {
+    "repo": "unity-editor-tools",
+    "uniques": 9,
+    "count": 9
   },
   {
     "repo": "spotify-telegram-bot",
@@ -40,17 +40,17 @@
     "count": 5
   },
   {
+    "repo": "Design-Patterns",
+    "uniques": 5,
+    "count": 11
+  },
+  {
     "repo": "WebApi-Auth",
     "uniques": 4,
     "count": 4
   },
   {
-    "repo": "Design-Patterns",
-    "uniques": 4,
-    "count": 4
-  },
-  {
-    "repo": "2D-sandbox",
+    "repo": "Casino-TDD",
     "uniques": 4,
     "count": 4
   },
@@ -75,17 +75,17 @@
     "count": 3
   },
   {
-    "repo": "Casino-TDD",
-    "uniques": 3,
-    "count": 3
-  },
-  {
     "repo": "parallax-js",
     "uniques": 2,
     "count": 2
   },
   {
     "repo": "ChatApplication",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "2D-sandbox",
     "uniques": 2,
     "count": 2
   }
