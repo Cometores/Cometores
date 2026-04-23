@@ -11,13 +11,13 @@
   },
   {
     "repo": "Unity-Platformer",
-    "uniques": 9,
-    "count": 11
+    "uniques": 10,
+    "count": 12
   },
   {
     "repo": "unity-editor-tools",
-    "uniques": 9,
-    "count": 9
+    "uniques": 10,
+    "count": 10
   },
   {
     "repo": "spotify-telegram-bot",
@@ -25,9 +25,9 @@
     "count": 7
   },
   {
-    "repo": "FBlockEXE",
-    "uniques": 7,
-    "count": 7
+    "repo": "Design-Patterns",
+    "uniques": 6,
+    "count": 12
   },
   {
     "repo": "UE-Tanks",
@@ -40,9 +40,9 @@
     "count": 5
   },
   {
-    "repo": "Design-Patterns",
+    "repo": "FBlockEXE",
     "uniques": 5,
-    "count": 11
+    "count": 5
   },
   {
     "repo": "WebApi-Auth",
