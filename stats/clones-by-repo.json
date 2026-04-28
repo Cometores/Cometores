@@ -1,23 +1,18 @@
 [
   {
     "repo": "Various-API-Standards",
-    "uniques": 17,
-    "count": 21
+    "uniques": 14,
+    "count": 18
   },
   {
     "repo": "Unity-Platformer",
-    "uniques": 10,
-    "count": 12
+    "uniques": 9,
+    "count": 11
   },
   {
     "repo": "unity-editor-tools",
-    "uniques": 9,
-    "count": 9
-  },
-  {
-    "repo": "Design-Patterns",
     "uniques": 8,
-    "count": 17
+    "count": 8
   },
   {
     "repo": ".NET-toolbox",
@@ -25,24 +20,14 @@
     "count": 15
   },
   {
-    "repo": "spotify-telegram-bot",
+    "repo": "Design-Patterns",
     "uniques": 7,
-    "count": 7
+    "count": 16
   },
   {
-    "repo": "UE-Tanks",
-    "uniques": 4,
-    "count": 4
-  },
-  {
-    "repo": "POSIX-lab",
-    "uniques": 4,
-    "count": 4
-  },
-  {
-    "repo": "FBlockEXE",
-    "uniques": 4,
-    "count": 4
+    "repo": "2D-sandbox",
+    "uniques": 5,
+    "count": 8
   },
   {
     "repo": "UE-Shooter",
@@ -50,7 +35,7 @@
     "count": 3
   },
   {
-    "repo": "react-forum",
+    "repo": "spotify-telegram-bot",
     "uniques": 3,
     "count": 3
   },
@@ -60,7 +45,7 @@
     "count": 3
   },
   {
-    "repo": "Casino-TDD",
+    "repo": "FBlockEXE",
     "uniques": 3,
     "count": 3
   },
@@ -70,22 +55,37 @@
     "count": 2
   },
   {
-    "repo": "parallax-js",
+    "repo": "UE-Tanks",
     "uniques": 2,
     "count": 2
   },
   {
-    "repo": "ChatApplication",
+    "repo": "react-forum",
     "uniques": 2,
     "count": 2
   },
   {
-    "repo": "2D-sandbox",
+    "repo": "POSIX-lab",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "Casino-TDD",
     "uniques": 2,
     "count": 2
   },
   {
     "repo": "react-web-store",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "parallax-js",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "ChatApplication",
     "uniques": 1,
     "count": 1
   }
