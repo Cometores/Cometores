@@ -1,18 +1,13 @@
 [
   {
     "repo": "Various-API-Standards",
-    "uniques": 14,
-    "count": 18
+    "uniques": 11,
+    "count": 15
   },
   {
     "repo": "Unity-Platformer",
     "uniques": 9,
     "count": 11
-  },
-  {
-    "repo": "unity-editor-tools",
-    "uniques": 8,
-    "count": 8
   },
   {
     "repo": ".NET-toolbox",
@@ -25,9 +20,14 @@
     "count": 16
   },
   {
+    "repo": "unity-editor-tools",
+    "uniques": 6,
+    "count": 6
+  },
+  {
     "repo": "2D-sandbox",
-    "uniques": 5,
-    "count": 8
+    "uniques": 6,
+    "count": 9
   },
   {
     "repo": "UE-Shooter",
