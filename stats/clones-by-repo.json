@@ -1,8 +1,8 @@
 [
   {
     "repo": "Various-API-Standards",
-    "uniques": 11,
-    "count": 15
+    "uniques": 9,
+    "count": 13
   },
   {
     "repo": "Unity-Platformer",
@@ -26,8 +26,8 @@
   },
   {
     "repo": "2D-sandbox",
-    "uniques": 6,
-    "count": 9
+    "uniques": 5,
+    "count": 8
   },
   {
     "repo": "UE-Shooter",
@@ -41,11 +41,6 @@
   },
   {
     "repo": "Microsoft-Setup",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "FBlockEXE",
     "uniques": 3,
     "count": 3
   },
@@ -66,6 +61,11 @@
   },
   {
     "repo": "POSIX-lab",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "FBlockEXE",
     "uniques": 2,
     "count": 2
   },
