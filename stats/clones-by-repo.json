@@ -11,13 +11,8 @@
   },
   {
     "repo": "Design-Patterns",
-    "uniques": 7,
-    "count": 16
-  },
-  {
-    "repo": "2D-sandbox",
     "uniques": 5,
-    "count": 8
+    "count": 14
   },
   {
     "repo": "unity-editor-tools",
@@ -25,12 +20,12 @@
     "count": 4
   },
   {
-    "repo": "UE-Shooter",
-    "uniques": 3,
-    "count": 3
+    "repo": "2D-sandbox",
+    "uniques": 4,
+    "count": 7
   },
   {
-    "repo": "spotify-telegram-bot",
+    "repo": "UE-Shooter",
     "uniques": 3,
     "count": 3
   },
@@ -38,11 +33,6 @@
     "repo": ".NET-toolbox",
     "uniques": 3,
     "count": 9
-  },
-  {
-    "repo": "UE-Tanks",
-    "uniques": 2,
-    "count": 2
   },
   {
     "repo": "react-forum",
@@ -60,12 +50,17 @@
     "count": 2
   },
   {
-    "repo": "FBlockEXE",
-    "uniques": 2,
-    "count": 2
+    "repo": "WebApi-Auth",
+    "uniques": 1,
+    "count": 1
   },
   {
-    "repo": "WebApi-Auth",
+    "repo": "UE-Tanks",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "spotify-telegram-bot",
     "uniques": 1,
     "count": 1
   },
@@ -76,6 +71,11 @@
   },
   {
     "repo": "parallax-js",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "FBlockEXE",
     "uniques": 1,
     "count": 1
   },
