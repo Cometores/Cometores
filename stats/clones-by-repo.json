@@ -11,8 +11,8 @@
   },
   {
     "repo": "Design-Patterns",
-    "uniques": 5,
-    "count": 14
+    "uniques": 6,
+    "count": 15
   },
   {
     "repo": "unity-editor-tools",
@@ -25,14 +25,14 @@
     "count": 7
   },
   {
+    "repo": ".NET-toolbox",
+    "uniques": 4,
+    "count": 10
+  },
+  {
     "repo": "UE-Shooter",
     "uniques": 3,
     "count": 3
-  },
-  {
-    "repo": ".NET-toolbox",
-    "uniques": 3,
-    "count": 9
   },
   {
     "repo": "react-forum",
