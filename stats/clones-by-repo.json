@@ -11,18 +11,8 @@
   },
   {
     "repo": ".NET-toolbox",
-    "uniques": 6,
-    "count": 62
-  },
-  {
-    "repo": "Design-Patterns",
-    "uniques": 4,
-    "count": 7
-  },
-  {
-    "repo": "POSIX-lab",
-    "uniques": 3,
-    "count": 3
+    "uniques": 5,
+    "count": 58
   },
   {
     "repo": "FBlockEXE",
@@ -50,7 +40,27 @@
     "count": 2
   },
   {
+    "repo": "POSIX-lab",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "parallax-js",
+    "uniques": 2,
+    "count": 2
+  },
+  {
     "repo": "Microsoft-Setup",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "Design-Patterns",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "Casino-TDD",
     "uniques": 2,
     "count": 2
   },
@@ -75,17 +85,7 @@
     "count": 1
   },
   {
-    "repo": "parallax-js",
-    "uniques": 1,
-    "count": 1
-  },
-  {
     "repo": "ChatApplication",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "Casino-TDD",
     "uniques": 1,
     "count": 1
   }
