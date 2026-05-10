@@ -6,8 +6,8 @@
   },
   {
     "repo": ".NET-toolbox",
-    "uniques": 5,
-    "count": 58
+    "uniques": 4,
+    "count": 54
   },
   {
     "repo": "Unity-Platformer",
@@ -25,22 +25,17 @@
     "count": 3
   },
   {
+    "repo": "parallax-js",
+    "uniques": 3,
+    "count": 3
+  },
+  {
     "repo": "WebApi-Auth",
     "uniques": 2,
     "count": 2
   },
   {
-    "repo": "Various-API-Standards",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "UE-Tanks",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "parallax-js",
     "uniques": 2,
     "count": 2
   },
@@ -63,6 +58,11 @@
     "repo": "Casino-TDD",
     "uniques": 2,
     "count": 2
+  },
+  {
+    "repo": "Various-API-Standards",
+    "uniques": 1,
+    "count": 1
   },
   {
     "repo": "UE-Shooter",
