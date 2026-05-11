@@ -6,13 +6,18 @@
   },
   {
     "repo": "Unity-Platformer",
-    "uniques": 4,
-    "count": 34
+    "uniques": 5,
+    "count": 35
   },
   {
     "repo": "2D-sandbox",
+    "uniques": 5,
+    "count": 5
+  },
+  {
+    "repo": "POSIX-lab",
     "uniques": 4,
-    "count": 4
+    "count": 25
   },
   {
     "repo": "unity-editor-tools",
@@ -20,14 +25,14 @@
     "count": 3
   },
   {
-    "repo": "POSIX-lab",
+    "repo": "parallax-js",
     "uniques": 3,
     "count": 3
   },
   {
-    "repo": "parallax-js",
+    "repo": "Design-Patterns",
     "uniques": 3,
-    "count": 3
+    "count": 27
   },
   {
     "repo": "WebApi-Auth",
@@ -46,11 +51,6 @@
   },
   {
     "repo": "FBlockEXE",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "Design-Patterns",
     "uniques": 2,
     "count": 2
   },
