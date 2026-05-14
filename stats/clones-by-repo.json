@@ -1,13 +1,13 @@
 [
   {
+    "repo": "Unity-Platformer",
+    "uniques": 6,
+    "count": 36
+  },
+  {
     "repo": ".NET-toolbox",
     "uniques": 6,
     "count": 56
-  },
-  {
-    "repo": "Unity-Platformer",
-    "uniques": 5,
-    "count": 35
   },
   {
     "repo": "POSIX-lab",
@@ -40,11 +40,6 @@
     "count": 2
   },
   {
-    "repo": "UE-Tanks",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "Microsoft-Setup",
     "uniques": 2,
     "count": 2
@@ -55,12 +50,22 @@
     "count": 2
   },
   {
+    "repo": "ChatApplication",
+    "uniques": 2,
+    "count": 2
+  },
+  {
     "repo": "Casino-TDD",
     "uniques": 2,
     "count": 2
   },
   {
     "repo": "Various-API-Standards",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "UE-Tanks",
     "uniques": 1,
     "count": 1
   },
@@ -81,11 +86,6 @@
   },
   {
     "repo": "react-forum",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "ChatApplication",
     "uniques": 1,
     "count": 1
   }
