@@ -6,13 +6,8 @@
   },
   {
     "repo": "Unity-Platformer",
-    "uniques": 5,
-    "count": 35
-  },
-  {
-    "repo": "POSIX-lab",
-    "uniques": 5,
-    "count": 26
+    "uniques": 6,
+    "count": 44
   },
   {
     "repo": "react-web-store",
@@ -20,24 +15,19 @@
     "count": 18
   },
   {
-    "repo": "2D-sandbox",
+    "repo": "POSIX-lab",
     "uniques": 4,
-    "count": 4
-  },
-  {
-    "repo": "unity-editor-tools",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "Microsoft-Setup",
-    "uniques": 3,
-    "count": 3
+    "count": 25
   },
   {
     "repo": "Design-Patterns",
-    "uniques": 3,
-    "count": 27
+    "uniques": 4,
+    "count": 37
+  },
+  {
+    "repo": "2D-sandbox",
+    "uniques": 4,
+    "count": 4
   },
   {
     "repo": "Casino-TDD",
@@ -45,7 +35,22 @@
     "count": 9
   },
   {
+    "repo": "unity-editor-tools",
+    "uniques": 2,
+    "count": 4
+  },
+  {
+    "repo": "UE-Shooter",
+    "uniques": 2,
+    "count": 2
+  },
+  {
     "repo": "parallax-js",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "Microsoft-Setup",
     "uniques": 2,
     "count": 2
   },
@@ -71,11 +76,6 @@
   },
   {
     "repo": "UE-Tanks",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "UE-Shooter",
     "uniques": 1,
     "count": 1
   },
