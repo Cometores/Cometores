@@ -1,8 +1,8 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 14,
-    "count": 78
+    "uniques": 13,
+    "count": 77
   },
   {
     "repo": "Unity-Platformer",
@@ -10,14 +10,14 @@
     "count": 44
   },
   {
-    "repo": "react-web-store",
-    "uniques": 4,
-    "count": 18
-  },
-  {
     "repo": "POSIX-lab",
     "uniques": 4,
     "count": 25
+  },
+  {
+    "repo": "WebApi-Auth",
+    "uniques": 3,
+    "count": 6
   },
   {
     "repo": "Various-API-Standards",
@@ -25,14 +25,14 @@
     "count": 3
   },
   {
+    "repo": "react-web-store",
+    "uniques": 3,
+    "count": 17
+  },
+  {
     "repo": "Design-Patterns",
     "uniques": 3,
     "count": 36
-  },
-  {
-    "repo": "Casino-TDD",
-    "uniques": 3,
-    "count": 9
   },
   {
     "repo": "2D-sandbox",
@@ -70,9 +70,9 @@
     "count": 2
   },
   {
-    "repo": "WebApi-Auth",
-    "uniques": 1,
-    "count": 1
+    "repo": "Casino-TDD",
+    "uniques": 2,
+    "count": 8
   },
   {
     "repo": "UE-Tanks",
