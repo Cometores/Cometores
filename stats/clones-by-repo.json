@@ -6,13 +6,13 @@
   },
   {
     "repo": "Unity-Platformer",
-    "uniques": 6,
-    "count": 44
+    "uniques": 5,
+    "count": 43
   },
   {
-    "repo": "POSIX-lab",
+    "repo": "Microsoft-Setup",
     "uniques": 4,
-    "count": 25
+    "count": 6
   },
   {
     "repo": "WebApi-Auth",
@@ -25,14 +25,24 @@
     "count": 3
   },
   {
+    "repo": "unity-editor-tools",
+    "uniques": 3,
+    "count": 8
+  },
+  {
+    "repo": "UE-Shooter",
+    "uniques": 3,
+    "count": 3
+  },
+  {
     "repo": "react-web-store",
     "uniques": 3,
     "count": 17
   },
   {
-    "repo": "Design-Patterns",
+    "repo": "POSIX-lab",
     "uniques": 3,
-    "count": 36
+    "count": 24
   },
   {
     "repo": "2D-sandbox",
@@ -40,22 +50,7 @@
     "count": 3
   },
   {
-    "repo": "unity-editor-tools",
-    "uniques": 2,
-    "count": 4
-  },
-  {
-    "repo": "UE-Shooter",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "parallax-js",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "Microsoft-Setup",
     "uniques": 2,
     "count": 2
   },
@@ -63,6 +58,11 @@
     "repo": "FBlockEXE",
     "uniques": 2,
     "count": 2
+  },
+  {
+    "repo": "Design-Patterns",
+    "uniques": 2,
+    "count": 35
   },
   {
     "repo": "ChatApplication",
