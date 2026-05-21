@@ -6,28 +6,18 @@
   },
   {
     "repo": "Unity-Platformer",
+    "uniques": 6,
+    "count": 44
+  },
+  {
+    "repo": "unity-editor-tools",
     "uniques": 5,
-    "count": 43
+    "count": 10
   },
   {
     "repo": "Microsoft-Setup",
     "uniques": 4,
     "count": 6
-  },
-  {
-    "repo": "2D-sandbox",
-    "uniques": 4,
-    "count": 4
-  },
-  {
-    "repo": "unity-editor-tools",
-    "uniques": 3,
-    "count": 8
-  },
-  {
-    "repo": "UE-Shooter",
-    "uniques": 3,
-    "count": 3
   },
   {
     "repo": "react-web-store",
@@ -40,6 +30,11 @@
     "count": 24
   },
   {
+    "repo": "2D-sandbox",
+    "uniques": 3,
+    "count": 3
+  },
+  {
     "repo": "WebApi-Auth",
     "uniques": 2,
     "count": 5
@@ -50,7 +45,7 @@
     "count": 2
   },
   {
-    "repo": "parallax-js",
+    "repo": "UE-Shooter",
     "uniques": 2,
     "count": 2
   },
@@ -86,6 +81,11 @@
   },
   {
     "repo": "react-forum",
+    "uniques": 1,
+    "count": 2
+  },
+  {
+    "repo": "parallax-js",
     "uniques": 1,
     "count": 1
   }
