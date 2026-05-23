@@ -10,8 +10,13 @@
     "count": 43
   },
   {
+    "repo": "Various-API-Standards",
+    "uniques": 4,
+    "count": 4
+  },
+  {
     "repo": "unity-editor-tools",
-    "uniques": 5,
+    "uniques": 4,
     "count": 10
   },
   {
@@ -20,29 +25,14 @@
     "count": 6
   },
   {
-    "repo": "Various-API-Standards",
-    "uniques": 3,
-    "count": 3
-  },
-  {
     "repo": "react-web-store",
     "uniques": 3,
     "count": 17
   },
   {
-    "repo": "POSIX-lab",
-    "uniques": 3,
-    "count": 24
-  },
-  {
     "repo": "Design-Patterns",
     "uniques": 3,
     "count": 36
-  },
-  {
-    "repo": "2D-sandbox",
-    "uniques": 3,
-    "count": 3
   },
   {
     "repo": "WebApi-Auth",
@@ -55,12 +45,22 @@
     "count": 2
   },
   {
+    "repo": "POSIX-lab",
+    "uniques": 2,
+    "count": 23
+  },
+  {
     "repo": "FBlockEXE",
     "uniques": 2,
     "count": 2
   },
   {
     "repo": "ChatApplication",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "2D-sandbox",
     "uniques": 2,
     "count": 2
   },
