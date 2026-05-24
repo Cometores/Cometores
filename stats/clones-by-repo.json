@@ -1,8 +1,8 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 16,
-    "count": 30
+    "uniques": 17,
+    "count": 31
   },
   {
     "repo": "Unity-Platformer",
@@ -50,16 +50,6 @@
     "count": 23
   },
   {
-    "repo": "FBlockEXE",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "ChatApplication",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "2D-sandbox",
     "uniques": 2,
     "count": 2
@@ -81,6 +71,16 @@
   },
   {
     "repo": "parallax-js",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "FBlockEXE",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "ChatApplication",
     "uniques": 1,
     "count": 1
   },
