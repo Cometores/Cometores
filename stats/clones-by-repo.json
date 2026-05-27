@@ -1,8 +1,8 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 18,
-    "count": 32
+    "uniques": 19,
+    "count": 33
   },
   {
     "repo": "Various-API-Standards",
@@ -25,11 +25,6 @@
     "count": 6
   },
   {
-    "repo": "Unity-Platformer",
-    "uniques": 3,
-    "count": 11
-  },
-  {
     "repo": "react-web-store",
     "uniques": 3,
     "count": 17
@@ -38,6 +33,11 @@
     "repo": "Design-Patterns",
     "uniques": 3,
     "count": 12
+  },
+  {
+    "repo": "Unity-Platformer",
+    "uniques": 2,
+    "count": 10
   },
   {
     "repo": "UE-Shooter",
