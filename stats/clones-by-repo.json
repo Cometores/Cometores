@@ -25,6 +25,11 @@
     "count": 6
   },
   {
+    "repo": "Unity-Platformer",
+    "uniques": 3,
+    "count": 11
+  },
+  {
     "repo": "UE-Shooter",
     "uniques": 3,
     "count": 3
@@ -38,11 +43,6 @@
     "repo": "Design-Patterns",
     "uniques": 3,
     "count": 12
-  },
-  {
-    "repo": "Unity-Platformer",
-    "uniques": 2,
-    "count": 10
   },
   {
     "repo": "react-forum",
