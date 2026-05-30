@@ -11,7 +11,7 @@
   },
   {
     "repo": "unity-editor-tools",
-    "uniques": 4,
+    "uniques": 5,
     "count": 10
   },
   {
@@ -30,19 +30,19 @@
     "count": 11
   },
   {
-    "repo": "UE-Shooter",
-    "uniques": 3,
-    "count": 3
-  },
-  {
     "repo": "react-web-store",
     "uniques": 3,
     "count": 17
   },
   {
-    "repo": "Design-Patterns",
-    "uniques": 3,
-    "count": 12
+    "repo": "UE-Shooter",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "spotify-telegram-bot",
+    "uniques": 2,
+    "count": 2
   },
   {
     "repo": "react-forum",
@@ -55,17 +55,17 @@
     "count": 2
   },
   {
+    "repo": "Design-Patterns",
+    "uniques": 2,
+    "count": 2
+  },
+  {
     "repo": "2D-sandbox",
     "uniques": 2,
     "count": 2
   },
   {
     "repo": "UE-Tanks",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "spotify-telegram-bot",
     "uniques": 1,
     "count": 1
   },
