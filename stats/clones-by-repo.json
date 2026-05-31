@@ -5,14 +5,14 @@
     "count": 27
   },
   {
-    "repo": "Various-API-Standards",
-    "uniques": 5,
-    "count": 5
-  },
-  {
     "repo": "unity-editor-tools",
     "uniques": 5,
     "count": 10
+  },
+  {
+    "repo": "Unity-Platformer",
+    "uniques": 4,
+    "count": 4
   },
   {
     "repo": "Microsoft-Setup",
@@ -20,19 +20,24 @@
     "count": 6
   },
   {
-    "repo": "WebApi-Auth",
+    "repo": "Various-API-Standards",
     "uniques": 3,
-    "count": 6
-  },
-  {
-    "repo": "Unity-Platformer",
-    "uniques": 3,
-    "count": 11
+    "count": 3
   },
   {
     "repo": "react-web-store",
     "uniques": 3,
     "count": 17
+  },
+  {
+    "repo": "FBlockEXE",
+    "uniques": 3,
+    "count": 3
+  },
+  {
+    "repo": "WebApi-Auth",
+    "uniques": 2,
+    "count": 2
   },
   {
     "repo": "UE-Shooter",
@@ -48,11 +53,6 @@
     "repo": "react-forum",
     "uniques": 2,
     "count": 3
-  },
-  {
-    "repo": "FBlockEXE",
-    "uniques": 2,
-    "count": 2
   },
   {
     "repo": "Design-Patterns",
