@@ -1,12 +1,7 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 13,
-    "count": 27
-  },
-  {
-    "repo": "unity-editor-tools",
-    "uniques": 5,
+    "uniques": 10,
     "count": 10
   },
   {
@@ -15,9 +10,9 @@
     "count": 4
   },
   {
-    "repo": "Microsoft-Setup",
+    "repo": "unity-editor-tools",
     "uniques": 4,
-    "count": 6
+    "count": 8
   },
   {
     "repo": "Various-API-Standards",
@@ -30,19 +25,14 @@
     "count": 17
   },
   {
+    "repo": "Microsoft-Setup",
+    "uniques": 3,
+    "count": 5
+  },
+  {
     "repo": "FBlockEXE",
     "uniques": 3,
     "count": 3
-  },
-  {
-    "repo": "WebApi-Auth",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "UE-Shooter",
-    "uniques": 2,
-    "count": 2
   },
   {
     "repo": "spotify-telegram-bot",
@@ -65,7 +55,17 @@
     "count": 2
   },
   {
+    "repo": "WebApi-Auth",
+    "uniques": 1,
+    "count": 1
+  },
+  {
     "repo": "UE-Tanks",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "UE-Shooter",
     "uniques": 1,
     "count": 1
   },
