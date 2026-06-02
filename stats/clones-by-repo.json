@@ -1,18 +1,18 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 10,
-    "count": 10
+    "uniques": 8,
+    "count": 8
+  },
+  {
+    "repo": "unity-editor-tools",
+    "uniques": 5,
+    "count": 7
   },
   {
     "repo": "Unity-Platformer",
     "uniques": 4,
     "count": 4
-  },
-  {
-    "repo": "unity-editor-tools",
-    "uniques": 4,
-    "count": 8
   },
   {
     "repo": "Various-API-Standards",
@@ -25,12 +25,12 @@
     "count": 17
   },
   {
-    "repo": "Microsoft-Setup",
+    "repo": "FBlockEXE",
     "uniques": 3,
-    "count": 5
+    "count": 3
   },
   {
-    "repo": "FBlockEXE",
+    "repo": "2D-sandbox",
     "uniques": 3,
     "count": 3
   },
@@ -46,11 +46,6 @@
   },
   {
     "repo": "Design-Patterns",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "2D-sandbox",
     "uniques": 2,
     "count": 2
   },
@@ -76,6 +71,11 @@
   },
   {
     "repo": "parallax-js",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "Microsoft-Setup",
     "uniques": 1,
     "count": 1
   },
