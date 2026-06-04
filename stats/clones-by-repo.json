@@ -1,13 +1,23 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 13,
-    "count": 13
+    "uniques": 14,
+    "count": 14
   },
   {
     "repo": "unity-editor-tools",
-    "uniques": 5,
-    "count": 7
+    "uniques": 4,
+    "count": 6
+  },
+  {
+    "repo": "FBlockEXE",
+    "uniques": 4,
+    "count": 4
+  },
+  {
+    "repo": "2D-sandbox",
+    "uniques": 4,
+    "count": 4
   },
   {
     "repo": "Various-API-Standards",
@@ -20,22 +30,27 @@
     "count": 3
   },
   {
-    "repo": "react-web-store",
-    "uniques": 3,
-    "count": 17
-  },
-  {
-    "repo": "FBlockEXE",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "2D-sandbox",
+    "repo": "UE-Shooter",
     "uniques": 3,
     "count": 3
   },
   {
     "repo": "spotify-telegram-bot",
+    "uniques": 3,
+    "count": 3
+  },
+  {
+    "repo": "Design-Patterns",
+    "uniques": 3,
+    "count": 3
+  },
+  {
+    "repo": "WebApi-Auth",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "UE-Tanks",
     "uniques": 2,
     "count": 2
   },
@@ -45,37 +60,22 @@
     "count": 3
   },
   {
-    "repo": "Design-Patterns",
+    "repo": "POSIX-lab",
     "uniques": 2,
     "count": 2
   },
   {
-    "repo": "WebApi-Auth",
-    "uniques": 1,
-    "count": 1
+    "repo": "Microsoft-Setup",
+    "uniques": 2,
+    "count": 2
   },
   {
-    "repo": "UE-Tanks",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "UE-Shooter",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "POSIX-lab",
+    "repo": "react-web-store",
     "uniques": 1,
     "count": 1
   },
   {
     "repo": "parallax-js",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "Microsoft-Setup",
     "uniques": 1,
     "count": 1
   },
@@ -87,6 +87,6 @@
   {
     "repo": "Casino-TDD",
     "uniques": 1,
-    "count": 7
+    "count": 1
   }
 ]
