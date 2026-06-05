@@ -6,8 +6,13 @@
   },
   {
     "repo": "unity-editor-tools",
+    "uniques": 5,
+    "count": 7
+  },
+  {
+    "repo": "Unity-Platformer",
     "uniques": 4,
-    "count": 6
+    "count": 4
   },
   {
     "repo": "FBlockEXE",
@@ -21,11 +26,6 @@
   },
   {
     "repo": "Various-API-Standards",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "Unity-Platformer",
     "uniques": 3,
     "count": 3
   },
@@ -57,7 +57,7 @@
   {
     "repo": "react-forum",
     "uniques": 2,
-    "count": 3
+    "count": 2
   },
   {
     "repo": "POSIX-lab",
