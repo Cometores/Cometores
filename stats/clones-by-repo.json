@@ -5,14 +5,14 @@
     "count": 14
   },
   {
-    "repo": "FBlockEXE",
-    "uniques": 7,
-    "count": 7
+    "repo": "unity-editor-tools",
+    "uniques": 6,
+    "count": 8
   },
   {
-    "repo": "unity-editor-tools",
-    "uniques": 5,
-    "count": 7
+    "repo": "FBlockEXE",
+    "uniques": 6,
+    "count": 6
   },
   {
     "repo": "2D-sandbox",
@@ -25,9 +25,19 @@
     "count": 4
   },
   {
+    "repo": "UE-Tanks",
+    "uniques": 4,
+    "count": 4
+  },
+  {
     "repo": "UE-Shooter",
-    "uniques": 3,
-    "count": 3
+    "uniques": 4,
+    "count": 4
+  },
+  {
+    "repo": "POSIX-lab",
+    "uniques": 4,
+    "count": 4
   },
   {
     "repo": "spotify-telegram-bot",
@@ -40,17 +50,7 @@
     "count": 3
   },
   {
-    "repo": "WebApi-Auth",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "Various-API-Standards",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "UE-Tanks",
     "uniques": 2,
     "count": 2
   },
@@ -60,22 +60,17 @@
     "count": 2
   },
   {
-    "repo": "POSIX-lab",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "Microsoft-Setup",
     "uniques": 2,
     "count": 2
   },
   {
-    "repo": "react-web-store",
+    "repo": "WebApi-Auth",
     "uniques": 1,
     "count": 1
   },
   {
-    "repo": "parallax-js",
+    "repo": "react-web-store",
     "uniques": 1,
     "count": 1
   },
@@ -88,5 +83,10 @@
     "repo": "Casino-TDD",
     "uniques": 1,
     "count": 1
+  },
+  {
+    "repo": "parallax-js",
+    "uniques": 0,
+    "count": 0
   }
 ]
