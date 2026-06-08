@@ -6,8 +6,8 @@
   },
   {
     "repo": "unity-editor-tools",
-    "uniques": 6,
-    "count": 8
+    "uniques": 8,
+    "count": 10
   },
   {
     "repo": "FBlockEXE",
@@ -16,8 +16,8 @@
   },
   {
     "repo": "2D-sandbox",
-    "uniques": 5,
-    "count": 6
+    "uniques": 6,
+    "count": 7
   },
   {
     "repo": "Unity-Platformer",
@@ -45,11 +45,6 @@
     "count": 3
   },
   {
-    "repo": "Design-Patterns",
-    "uniques": 3,
-    "count": 3
-  },
-  {
     "repo": "Various-API-Standards",
     "uniques": 2,
     "count": 2
@@ -61,6 +56,11 @@
   },
   {
     "repo": "Microsoft-Setup",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "Design-Patterns",
     "uniques": 2,
     "count": 2
   },
