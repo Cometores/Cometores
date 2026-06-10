@@ -20,12 +20,12 @@
     "count": 7
   },
   {
-    "repo": "Unity-Platformer",
-    "uniques": 4,
-    "count": 4
+    "repo": "UE-Tanks",
+    "uniques": 5,
+    "count": 5
   },
   {
-    "repo": "UE-Tanks",
+    "repo": "Unity-Platformer",
     "uniques": 4,
     "count": 4
   },
@@ -45,11 +45,6 @@
     "count": 3
   },
   {
-    "repo": "Various-API-Standards",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "react-forum",
     "uniques": 2,
     "count": 2
@@ -66,6 +61,11 @@
   },
   {
     "repo": "WebApi-Auth",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "Various-API-Standards",
     "uniques": 1,
     "count": 1
   },
