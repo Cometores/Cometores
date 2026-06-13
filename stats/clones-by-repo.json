@@ -1,13 +1,13 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 14,
-    "count": 14
+    "uniques": 16,
+    "count": 16
   },
   {
     "repo": "unity-editor-tools",
-    "uniques": 9,
-    "count": 12
+    "uniques": 7,
+    "count": 9
   },
   {
     "repo": "FBlockEXE",
@@ -50,17 +50,17 @@
     "count": 4
   },
   {
-    "repo": "spotify-telegram-bot",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "Microsoft-Setup",
     "uniques": 2,
     "count": 3
   },
   {
     "repo": "WebApi-Auth",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "spotify-telegram-bot",
     "uniques": 1,
     "count": 1
   },
