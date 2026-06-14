@@ -2,7 +2,12 @@
   {
     "repo": ".NET-toolbox",
     "uniques": 16,
-    "count": 16
+    "count": 17
+  },
+  {
+    "repo": "2D-sandbox",
+    "uniques": 8,
+    "count": 10
   },
   {
     "repo": "unity-editor-tools",
@@ -15,14 +20,9 @@
     "count": 7
   },
   {
-    "repo": "2D-sandbox",
-    "uniques": 6,
-    "count": 7
-  },
-  {
     "repo": "Unity-Platformer",
-    "uniques": 5,
-    "count": 6
+    "uniques": 4,
+    "count": 5
   },
   {
     "repo": "UE-Tanks",
