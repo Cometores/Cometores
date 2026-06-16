@@ -6,13 +6,8 @@
   },
   {
     "repo": "unity-editor-tools",
-    "uniques": 8,
-    "count": 10
-  },
-  {
-    "repo": "2D-sandbox",
-    "uniques": 8,
-    "count": 10
+    "uniques": 7,
+    "count": 9
   },
   {
     "repo": "FBlockEXE",
@@ -20,17 +15,17 @@
     "count": 7
   },
   {
+    "repo": "2D-sandbox",
+    "uniques": 7,
+    "count": 9
+  },
+  {
     "repo": "Unity-Platformer",
-    "uniques": 4,
-    "count": 5
+    "uniques": 5,
+    "count": 6
   },
   {
     "repo": "UE-Tanks",
-    "uniques": 4,
-    "count": 4
-  },
-  {
-    "repo": "POSIX-lab",
     "uniques": 4,
     "count": 4
   },
@@ -50,17 +45,22 @@
     "count": 3
   },
   {
+    "repo": "spotify-telegram-bot",
+    "uniques": 3,
+    "count": 3
+  },
+  {
+    "repo": "POSIX-lab",
+    "uniques": 3,
+    "count": 3
+  },
+  {
     "repo": "Microsoft-Setup",
     "uniques": 2,
     "count": 3
   },
   {
     "repo": "WebApi-Auth",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "spotify-telegram-bot",
     "uniques": 1,
     "count": 1
   },
