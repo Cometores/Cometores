@@ -1,23 +1,23 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 13,
-    "count": 14
-  },
-  {
-    "repo": "FBlockEXE",
-    "uniques": 7,
-    "count": 7
+    "uniques": 12,
+    "count": 12
   },
   {
     "repo": "2D-sandbox",
-    "uniques": 7,
+    "uniques": 8,
     "count": 9
   },
   {
     "repo": "unity-editor-tools",
-    "uniques": 6,
+    "uniques": 7,
     "count": 8
+  },
+  {
+    "repo": "Various-API-Standards",
+    "uniques": 5,
+    "count": 6
   },
   {
     "repo": "Unity-Platformer",
@@ -25,8 +25,8 @@
     "count": 6
   },
   {
-    "repo": "Various-API-Standards",
-    "uniques": 3,
+    "repo": "FBlockEXE",
+    "uniques": 4,
     "count": 4
   },
   {
@@ -35,9 +35,24 @@
     "count": 3
   },
   {
+    "repo": "parallax-js",
+    "uniques": 3,
+    "count": 3
+  },
+  {
+    "repo": "Microsoft-Setup",
+    "uniques": 3,
+    "count": 4
+  },
+  {
     "repo": "Design-Patterns",
     "uniques": 3,
     "count": 4
+  },
+  {
+    "repo": "WebApi-Auth",
+    "uniques": 2,
+    "count": 2
   },
   {
     "repo": "spotify-telegram-bot",
@@ -50,14 +65,9 @@
     "count": 2
   },
   {
-    "repo": "parallax-js",
+    "repo": "ChatApplication",
     "uniques": 2,
     "count": 2
-  },
-  {
-    "repo": "WebApi-Auth",
-    "uniques": 1,
-    "count": 1
   },
   {
     "repo": "UE-Shooter",
@@ -71,16 +81,6 @@
   },
   {
     "repo": "react-forum",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "Microsoft-Setup",
-    "uniques": 1,
-    "count": 2
-  },
-  {
-    "repo": "ChatApplication",
     "uniques": 1,
     "count": 1
   },
