@@ -1,23 +1,23 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 12,
-    "count": 12
+    "uniques": 13,
+    "count": 13
+  },
+  {
+    "repo": "Various-API-Standards",
+    "uniques": 8,
+    "count": 9
+  },
+  {
+    "repo": "unity-editor-tools",
+    "uniques": 8,
+    "count": 9
   },
   {
     "repo": "2D-sandbox",
     "uniques": 8,
     "count": 9
-  },
-  {
-    "repo": "Various-API-Standards",
-    "uniques": 7,
-    "count": 8
-  },
-  {
-    "repo": "unity-editor-tools",
-    "uniques": 6,
-    "count": 7
   },
   {
     "repo": "Unity-Platformer",
@@ -35,6 +35,21 @@
     "count": 4
   },
   {
+    "repo": "POSIX-lab",
+    "uniques": 4,
+    "count": 4
+  },
+  {
+    "repo": "Design-Patterns",
+    "uniques": 4,
+    "count": 5
+  },
+  {
+    "repo": "UE-Tanks",
+    "uniques": 3,
+    "count": 3
+  },
+  {
     "repo": "parallax-js",
     "uniques": 3,
     "count": 3
@@ -45,27 +60,17 @@
     "count": 4
   },
   {
-    "repo": "Design-Patterns",
-    "uniques": 3,
-    "count": 4
-  },
-  {
     "repo": "WebApi-Auth",
     "uniques": 2,
     "count": 2
   },
   {
-    "repo": "UE-Tanks",
+    "repo": "UE-Shooter",
     "uniques": 2,
     "count": 2
   },
   {
     "repo": "react-web-store",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "POSIX-lab",
     "uniques": 2,
     "count": 2
   },
@@ -78,11 +83,6 @@
     "repo": "Casino-TDD",
     "uniques": 2,
     "count": 2
-  },
-  {
-    "repo": "UE-Shooter",
-    "uniques": 1,
-    "count": 1
   },
   {
     "repo": "react-forum",
