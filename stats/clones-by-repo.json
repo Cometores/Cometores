@@ -1,8 +1,8 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 14,
-    "count": 14
+    "uniques": 13,
+    "count": 13
   },
   {
     "repo": "Various-API-Standards",
@@ -20,17 +20,12 @@
     "count": 9
   },
   {
-    "repo": "Unity-Platformer",
-    "uniques": 5,
-    "count": 6
-  },
-  {
-    "repo": "FBlockEXE",
+    "repo": "spotify-telegram-bot",
     "uniques": 5,
     "count": 5
   },
   {
-    "repo": "spotify-telegram-bot",
+    "repo": "Unity-Platformer",
     "uniques": 4,
     "count": 4
   },
@@ -40,27 +35,22 @@
     "count": 4
   },
   {
+    "repo": "FBlockEXE",
+    "uniques": 4,
+    "count": 4
+  },
+  {
     "repo": "Design-Patterns",
     "uniques": 4,
     "count": 5
   },
   {
-    "repo": "UE-Tanks",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "parallax-js",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "Microsoft-Setup",
-    "uniques": 3,
-    "count": 4
-  },
-  {
     "repo": "WebApi-Auth",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "UE-Tanks",
     "uniques": 2,
     "count": 2
   },
@@ -75,6 +65,21 @@
     "count": 2
   },
   {
+    "repo": "react-forum",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "parallax-js",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "Microsoft-Setup",
+    "uniques": 2,
+    "count": 2
+  },
+  {
     "repo": "ChatApplication",
     "uniques": 2,
     "count": 2
@@ -83,10 +88,5 @@
     "repo": "Casino-TDD",
     "uniques": 2,
     "count": 2
-  },
-  {
-    "repo": "react-forum",
-    "uniques": 1,
-    "count": 1
   }
 ]
