@@ -1,18 +1,13 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 13,
-    "count": 13
-  },
-  {
-    "repo": "2D-sandbox",
-    "uniques": 8,
-    "count": 9
+    "uniques": 12,
+    "count": 12
   },
   {
     "repo": "unity-editor-tools",
-    "uniques": 7,
-    "count": 7
+    "uniques": 8,
+    "count": 8
   },
   {
     "repo": "spotify-telegram-bot",
@@ -25,6 +20,11 @@
     "count": 6
   },
   {
+    "repo": "2D-sandbox",
+    "uniques": 6,
+    "count": 7
+  },
+  {
     "repo": "Unity-Platformer",
     "uniques": 4,
     "count": 4
@@ -35,12 +35,12 @@
     "count": 4
   },
   {
-    "repo": "FBlockEXE",
-    "uniques": 4,
-    "count": 4
+    "repo": "Design-Patterns",
+    "uniques": 3,
+    "count": 3
   },
   {
-    "repo": "Design-Patterns",
+    "repo": "Casino-TDD",
     "uniques": 3,
     "count": 3
   },
@@ -80,12 +80,12 @@
     "count": 2
   },
   {
-    "repo": "ChatApplication",
+    "repo": "FBlockEXE",
     "uniques": 2,
     "count": 2
   },
   {
-    "repo": "Casino-TDD",
+    "repo": "ChatApplication",
     "uniques": 2,
     "count": 2
   }
