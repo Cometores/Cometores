@@ -1,8 +1,8 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 12,
-    "count": 12
+    "uniques": 11,
+    "count": 11
   },
   {
     "repo": "unity-editor-tools",
@@ -22,7 +22,7 @@
   {
     "repo": "2D-sandbox",
     "uniques": 6,
-    "count": 7
+    "count": 6
   },
   {
     "repo": "Unity-Platformer",
@@ -33,6 +33,11 @@
     "repo": "POSIX-lab",
     "uniques": 4,
     "count": 4
+  },
+  {
+    "repo": "react-web-store",
+    "uniques": 3,
+    "count": 3
   },
   {
     "repo": "Design-Patterns",
@@ -56,11 +61,6 @@
   },
   {
     "repo": "UE-Shooter",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "react-web-store",
     "uniques": 2,
     "count": 2
   },
