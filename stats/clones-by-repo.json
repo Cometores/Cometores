@@ -1,13 +1,13 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 11,
-    "count": 11
+    "uniques": 10,
+    "count": 10
   },
   {
     "repo": "unity-editor-tools",
-    "uniques": 8,
-    "count": 8
+    "uniques": 7,
+    "count": 7
   },
   {
     "repo": "spotify-telegram-bot",
@@ -25,14 +25,14 @@
     "count": 6
   },
   {
-    "repo": "Unity-Platformer",
+    "repo": "POSIX-lab",
     "uniques": 4,
     "count": 4
   },
   {
-    "repo": "POSIX-lab",
-    "uniques": 4,
-    "count": 4
+    "repo": "Unity-Platformer",
+    "uniques": 3,
+    "count": 3
   },
   {
     "repo": "react-web-store",
