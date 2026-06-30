@@ -5,24 +5,24 @@
     "count": 10
   },
   {
+    "repo": "unity-editor-tools",
+    "uniques": 9,
+    "count": 10
+  },
+  {
     "repo": "Various-API-Standards",
     "uniques": 7,
     "count": 7
   },
   {
-    "repo": "unity-editor-tools",
+    "repo": "2D-sandbox",
     "uniques": 7,
     "count": 7
   },
   {
     "repo": "spotify-telegram-bot",
-    "uniques": 7,
-    "count": 7
-  },
-  {
-    "repo": "2D-sandbox",
-    "uniques": 6,
-    "count": 6
+    "uniques": 5,
+    "count": 5
   },
   {
     "repo": "POSIX-lab",
