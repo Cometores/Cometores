@@ -30,11 +30,6 @@
     "count": 4
   },
   {
-    "repo": "Unity-Platformer",
-    "uniques": 3,
-    "count": 3
-  },
-  {
     "repo": "react-web-store",
     "uniques": 3,
     "count": 3
@@ -46,6 +41,11 @@
   },
   {
     "repo": "WebApi-Auth",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "Unity-Platformer",
     "uniques": 2,
     "count": 2
   },
@@ -86,7 +86,7 @@
   },
   {
     "repo": "ChatApplication",
-    "uniques": 2,
-    "count": 2
+    "uniques": 1,
+    "count": 1
   }
 ]
