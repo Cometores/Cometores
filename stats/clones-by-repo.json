@@ -1,8 +1,8 @@
 [
   {
     "repo": "unity-editor-tools",
-    "uniques": 9,
-    "count": 10
+    "uniques": 8,
+    "count": 9
   },
   {
     "repo": ".NET-toolbox",
@@ -45,11 +45,6 @@
     "count": 2
   },
   {
-    "repo": "Unity-Platformer",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "UE-Tanks",
     "uniques": 2,
     "count": 2
@@ -80,9 +75,14 @@
     "count": 2
   },
   {
+    "repo": "Unity-Platformer",
+    "uniques": 1,
+    "count": 1
+  },
+  {
     "repo": "Design-Patterns",
-    "uniques": 2,
-    "count": 2
+    "uniques": 1,
+    "count": 1
   },
   {
     "repo": "ChatApplication",
