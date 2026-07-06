@@ -1,26 +1,16 @@
 [
   {
+    "repo": ".NET-toolbox",
+    "uniques": 4,
+    "count": 5
+  },
+  {
     "repo": "unity-editor-tools",
-    "uniques": 5,
-    "count": 8
+    "uniques": 3,
+    "count": 6
   },
   {
     "repo": "spotify-telegram-bot",
-    "uniques": 5,
-    "count": 5
-  },
-  {
-    "repo": ".NET-toolbox",
-    "uniques": 5,
-    "count": 5
-  },
-  {
-    "repo": "POSIX-lab",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "Casino-TDD",
     "uniques": 3,
     "count": 3
   },
@@ -35,17 +25,7 @@
     "count": 2
   },
   {
-    "repo": "react-forum",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "Microsoft-Setup",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "FBlockEXE",
     "uniques": 2,
     "count": 2
   },
@@ -75,18 +55,38 @@
     "count": 1
   },
   {
+    "repo": "react-forum",
+    "uniques": 1,
+    "count": 1
+  },
+  {
     "repo": "parallax-js",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "FBlockEXE",
     "uniques": 1,
     "count": 1
   },
   {
     "repo": "Design-Patterns",
     "uniques": 1,
-    "count": 1
+    "count": 2
   },
   {
     "repo": "ChatApplication",
     "uniques": 1,
     "count": 1
+  },
+  {
+    "repo": "Casino-TDD",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "POSIX-lab",
+    "uniques": 0,
+    "count": 0
   }
 ]
