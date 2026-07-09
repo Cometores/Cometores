@@ -5,11 +5,6 @@
     "count": 3
   },
   {
-    "repo": "unity-editor-tools",
-    "uniques": 3,
-    "count": 6
-  },
-  {
     "repo": "Microsoft-Setup",
     "uniques": 3,
     "count": 3
@@ -25,7 +20,17 @@
     "count": 4
   },
   {
+    "repo": "unity-editor-tools",
+    "uniques": 2,
+    "count": 5
+  },
+  {
     "repo": "spotify-telegram-bot",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "Casino-TDD",
     "uniques": 2,
     "count": 2
   },
@@ -76,11 +81,6 @@
   },
   {
     "repo": "ChatApplication",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "Casino-TDD",
     "uniques": 1,
     "count": 1
   },
