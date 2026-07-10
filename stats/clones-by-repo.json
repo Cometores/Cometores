@@ -1,5 +1,10 @@
 [
   {
+    "repo": ".NET-toolbox",
+    "uniques": 4,
+    "count": 5
+  },
+  {
     "repo": "Various-API-Standards",
     "uniques": 3,
     "count": 3
@@ -15,11 +20,6 @@
     "count": 3
   },
   {
-    "repo": ".NET-toolbox",
-    "uniques": 3,
-    "count": 4
-  },
-  {
     "repo": "unity-editor-tools",
     "uniques": 2,
     "count": 5
@@ -30,7 +30,12 @@
     "count": 2
   },
   {
-    "repo": "Casino-TDD",
+    "repo": "parallax-js",
+    "uniques": 2,
+    "count": 3
+  },
+  {
+    "repo": "FBlockEXE",
     "uniques": 2,
     "count": 2
   },
@@ -42,7 +47,7 @@
   {
     "repo": "Unity-Platformer",
     "uniques": 1,
-    "count": 1
+    "count": 3
   },
   {
     "repo": "UE-Tanks",
@@ -65,22 +70,17 @@
     "count": 1
   },
   {
-    "repo": "parallax-js",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "FBlockEXE",
-    "uniques": 1,
-    "count": 1
-  },
-  {
     "repo": "Design-Patterns",
     "uniques": 1,
     "count": 2
   },
   {
     "repo": "ChatApplication",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "Casino-TDD",
     "uniques": 1,
     "count": 1
   },
