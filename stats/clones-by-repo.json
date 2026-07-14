@@ -1,10 +1,5 @@
 [
   {
-    "repo": "2D-sandbox",
-    "uniques": 4,
-    "count": 10
-  },
-  {
     "repo": ".NET-toolbox",
     "uniques": 4,
     "count": 5
@@ -18,6 +13,11 @@
     "repo": "Microsoft-Setup",
     "uniques": 3,
     "count": 3
+  },
+  {
+    "repo": "2D-sandbox",
+    "uniques": 3,
+    "count": 9
   },
   {
     "repo": "Various-API-Standards",
