@@ -5,9 +5,9 @@
     "count": 5
   },
   {
-    "repo": "unity-editor-tools",
+    "repo": "parallax-js",
     "uniques": 3,
-    "count": 7
+    "count": 4
   },
   {
     "repo": "Microsoft-Setup",
@@ -25,14 +25,14 @@
     "count": 2
   },
   {
+    "repo": "unity-editor-tools",
+    "uniques": 2,
+    "count": 4
+  },
+  {
     "repo": "UE-Tanks",
     "uniques": 2,
     "count": 2
-  },
-  {
-    "repo": "parallax-js",
-    "uniques": 2,
-    "count": 3
   },
   {
     "repo": "FBlockEXE",
