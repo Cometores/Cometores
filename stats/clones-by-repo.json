@@ -35,16 +35,6 @@
     "count": 2
   },
   {
-    "repo": "FBlockEXE",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "WebApi-Auth",
-    "uniques": 1,
-    "count": 1
-  },
-  {
     "repo": "Unity-Platformer",
     "uniques": 1,
     "count": 3
@@ -70,14 +60,14 @@
     "count": 1
   },
   {
+    "repo": "FBlockEXE",
+    "uniques": 1,
+    "count": 1
+  },
+  {
     "repo": "Design-Patterns",
     "uniques": 1,
     "count": 2
-  },
-  {
-    "repo": "ChatApplication",
-    "uniques": 1,
-    "count": 1
   },
   {
     "repo": "Casino-TDD",
@@ -85,7 +75,17 @@
     "count": 1
   },
   {
+    "repo": "WebApi-Auth",
+    "uniques": 0,
+    "count": 0
+  },
+  {
     "repo": "POSIX-lab",
+    "uniques": 0,
+    "count": 0
+  },
+  {
+    "repo": "ChatApplication",
     "uniques": 0,
     "count": 0
   }
