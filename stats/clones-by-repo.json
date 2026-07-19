@@ -1,5 +1,10 @@
 [
   {
+    "repo": ".NET-toolbox",
+    "uniques": 4,
+    "count": 5
+  },
+  {
     "repo": "parallax-js",
     "uniques": 3,
     "count": 4
@@ -10,19 +15,9 @@
     "count": 9
   },
   {
-    "repo": ".NET-toolbox",
-    "uniques": 3,
-    "count": 4
-  },
-  {
     "repo": "Various-API-Standards",
     "uniques": 2,
     "count": 2
-  },
-  {
-    "repo": "unity-editor-tools",
-    "uniques": 2,
-    "count": 4
   },
   {
     "repo": "UE-Tanks",
@@ -35,9 +30,19 @@
     "count": 2
   },
   {
+    "repo": "FBlockEXE",
+    "uniques": 2,
+    "count": 2
+  },
+  {
     "repo": "Unity-Platformer",
     "uniques": 1,
     "count": 3
+  },
+  {
+    "repo": "unity-editor-tools",
+    "uniques": 1,
+    "count": 2
   },
   {
     "repo": "UE-Shooter",
@@ -60,14 +65,14 @@
     "count": 1
   },
   {
-    "repo": "FBlockEXE",
-    "uniques": 1,
-    "count": 1
-  },
-  {
     "repo": "Design-Patterns",
     "uniques": 1,
     "count": 2
+  },
+  {
+    "repo": "ChatApplication",
+    "uniques": 1,
+    "count": 1
   },
   {
     "repo": "Casino-TDD",
@@ -81,11 +86,6 @@
   },
   {
     "repo": "POSIX-lab",
-    "uniques": 0,
-    "count": 0
-  },
-  {
-    "repo": "ChatApplication",
     "uniques": 0,
     "count": 0
   }
