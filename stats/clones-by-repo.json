@@ -1,18 +1,8 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 4,
-    "count": 5
-  },
-  {
-    "repo": "parallax-js",
     "uniques": 3,
-    "count": 4
-  },
-  {
-    "repo": "2D-sandbox",
-    "uniques": 3,
-    "count": 9
+    "count": 3
   },
   {
     "repo": "Various-API-Standards",
@@ -20,14 +10,19 @@
     "count": 2
   },
   {
+    "repo": "Unity-Platformer",
+    "uniques": 2,
+    "count": 4
+  },
+  {
     "repo": "UE-Tanks",
     "uniques": 2,
     "count": 2
   },
   {
-    "repo": "Microsoft-Setup",
+    "repo": "parallax-js",
     "uniques": 2,
-    "count": 2
+    "count": 3
   },
   {
     "repo": "FBlockEXE",
@@ -35,9 +30,9 @@
     "count": 2
   },
   {
-    "repo": "Unity-Platformer",
-    "uniques": 1,
-    "count": 3
+    "repo": "2D-sandbox",
+    "uniques": 2,
+    "count": 8
   },
   {
     "repo": "unity-editor-tools",
@@ -61,6 +56,11 @@
   },
   {
     "repo": "react-forum",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "Microsoft-Setup",
     "uniques": 1,
     "count": 1
   },
