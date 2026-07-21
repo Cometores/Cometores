@@ -5,11 +5,6 @@
     "count": 3
   },
   {
-    "repo": "Various-API-Standards",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "Unity-Platformer",
     "uniques": 2,
     "count": 4
@@ -33,6 +28,11 @@
     "repo": "2D-sandbox",
     "uniques": 2,
     "count": 8
+  },
+  {
+    "repo": "Various-API-Standards",
+    "uniques": 1,
+    "count": 1
   },
   {
     "repo": "unity-editor-tools",
