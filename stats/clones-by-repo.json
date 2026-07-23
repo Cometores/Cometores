@@ -10,12 +10,22 @@
     "count": 3
   },
   {
-    "repo": "Unity-Platformer",
+    "repo": "Various-API-Standards",
     "uniques": 2,
-    "count": 4
+    "count": 2
   },
   {
-    "repo": "UE-Tanks",
+    "repo": "Unity-Platformer",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "UE-Shooter",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "react-forum",
     "uniques": 2,
     "count": 2
   },
@@ -35,17 +45,12 @@
     "count": 1
   },
   {
-    "repo": "Various-API-Standards",
-    "uniques": 1,
-    "count": 1
-  },
-  {
     "repo": "unity-editor-tools",
     "uniques": 1,
     "count": 2
   },
   {
-    "repo": "UE-Shooter",
+    "repo": "UE-Tanks",
     "uniques": 1,
     "count": 1
   },
@@ -56,11 +61,6 @@
   },
   {
     "repo": "react-web-store",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "react-forum",
     "uniques": 1,
     "count": 1
   },
