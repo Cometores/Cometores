@@ -2,7 +2,7 @@
   {
     "repo": ".NET-toolbox",
     "uniques": 7,
-    "count": 7
+    "count": 8
   },
   {
     "repo": "2D-sandbox",
@@ -28,11 +28,6 @@
     "repo": "react-forum",
     "uniques": 2,
     "count": 2
-  },
-  {
-    "repo": "parallax-js",
-    "uniques": 2,
-    "count": 3
   },
   {
     "repo": "FBlockEXE",
@@ -66,6 +61,11 @@
   },
   {
     "repo": "react-web-store",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "parallax-js",
     "uniques": 1,
     "count": 1
   },
