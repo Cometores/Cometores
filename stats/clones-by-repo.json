@@ -1,8 +1,8 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 7,
-    "count": 8
+    "uniques": 8,
+    "count": 10
   },
   {
     "repo": "Various-API-Standards",
@@ -10,9 +10,14 @@
     "count": 6
   },
   {
-    "repo": "2D-sandbox",
+    "repo": "FBlockEXE",
     "uniques": 4,
-    "count": 10
+    "count": 4
+  },
+  {
+    "repo": "react-web-store",
+    "uniques": 3,
+    "count": 3
   },
   {
     "repo": "react-forum",
@@ -20,7 +25,7 @@
     "count": 3
   },
   {
-    "repo": "FBlockEXE",
+    "repo": "2D-sandbox",
     "uniques": 3,
     "count": 3
   },
@@ -45,12 +50,17 @@
     "count": 2
   },
   {
-    "repo": "react-web-store",
+    "repo": "spotify-telegram-bot",
     "uniques": 2,
     "count": 2
   },
   {
     "repo": "parallax-js",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "Microsoft-Setup",
     "uniques": 2,
     "count": 2
   },
@@ -65,12 +75,7 @@
     "count": 1
   },
   {
-    "repo": "spotify-telegram-bot",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "Microsoft-Setup",
+    "repo": "POSIX-lab",
     "uniques": 1,
     "count": 1
   },
@@ -83,10 +88,5 @@
     "repo": "Casino-TDD",
     "uniques": 1,
     "count": 1
-  },
-  {
-    "repo": "POSIX-lab",
-    "uniques": 0,
-    "count": 0
   }
 ]
