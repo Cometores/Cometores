@@ -30,6 +30,11 @@
     "count": 3
   },
   {
+    "repo": "Design-Patterns",
+    "uniques": 3,
+    "count": 3
+  },
+  {
     "repo": "2D-sandbox",
     "uniques": 3,
     "count": 3
@@ -45,6 +50,11 @@
     "count": 2
   },
   {
+    "repo": "UE-Tanks",
+    "uniques": 2,
+    "count": 2
+  },
+  {
     "repo": "UE-Shooter",
     "uniques": 2,
     "count": 2
@@ -55,24 +65,14 @@
     "count": 2
   },
   {
-    "repo": "parallax-js",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "Microsoft-Setup",
     "uniques": 2,
     "count": 2
   },
   {
-    "repo": "Design-Patterns",
+    "repo": "Casino-TDD",
     "uniques": 2,
     "count": 2
-  },
-  {
-    "repo": "UE-Tanks",
-    "uniques": 1,
-    "count": 1
   },
   {
     "repo": "POSIX-lab",
@@ -80,12 +80,12 @@
     "count": 1
   },
   {
-    "repo": "ChatApplication",
+    "repo": "parallax-js",
     "uniques": 1,
     "count": 1
   },
   {
-    "repo": "Casino-TDD",
+    "repo": "ChatApplication",
     "uniques": 1,
     "count": 1
   }
