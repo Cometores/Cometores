@@ -15,6 +15,11 @@
     "count": 5
   },
   {
+    "repo": "2D-sandbox",
+    "uniques": 4,
+    "count": 4
+  },
+  {
     "repo": "WebApi-Auth",
     "uniques": 3,
     "count": 3
@@ -36,11 +41,6 @@
   },
   {
     "repo": "Casino-TDD",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "2D-sandbox",
     "uniques": 3,
     "count": 3
   },
@@ -88,5 +88,10 @@
     "repo": "ChatApplication",
     "uniques": 1,
     "count": 1
+  },
+  {
+    "repo": "Cmpr",
+    "uniques": 0,
+    "count": 0
   }
 ]
