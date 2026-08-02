@@ -1,8 +1,8 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 9,
-    "count": 11
+    "uniques": 10,
+    "count": 13
   },
   {
     "repo": "Various-API-Standards",
@@ -10,9 +10,14 @@
     "count": 7
   },
   {
+    "repo": "react-web-store",
+    "uniques": 4,
+    "count": 4
+  },
+  {
     "repo": "FBlockEXE",
-    "uniques": 5,
-    "count": 5
+    "uniques": 4,
+    "count": 4
   },
   {
     "repo": "2D-sandbox",
@@ -21,11 +26,6 @@
   },
   {
     "repo": "WebApi-Auth",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "react-web-store",
     "uniques": 3,
     "count": 3
   },
@@ -43,11 +43,6 @@
     "repo": "Casino-TDD",
     "uniques": 3,
     "count": 3
-  },
-  {
-    "repo": "Unity-Platformer",
-    "uniques": 2,
-    "count": 2
   },
   {
     "repo": "unity-editor-tools",
@@ -73,6 +68,11 @@
     "repo": "Microsoft-Setup",
     "uniques": 2,
     "count": 2
+  },
+  {
+    "repo": "Unity-Platformer",
+    "uniques": 1,
+    "count": 1
   },
   {
     "repo": "POSIX-lab",
