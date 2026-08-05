@@ -10,14 +10,14 @@
     "count": 8
   },
   {
-    "repo": "react-web-store",
-    "uniques": 4,
-    "count": 4
+    "repo": "Anlzr",
+    "uniques": 7,
+    "count": 8
   },
   {
     "repo": "FBlockEXE",
-    "uniques": 4,
-    "count": 4
+    "uniques": 5,
+    "count": 5
   },
   {
     "repo": "Cmpr",
@@ -25,12 +25,17 @@
     "count": 4
   },
   {
-    "repo": "WebApi-Auth",
+    "repo": "unity-editor-tools",
     "uniques": 3,
     "count": 3
   },
   {
-    "repo": "unity-editor-tools",
+    "repo": "spotify-telegram-bot",
+    "uniques": 3,
+    "count": 3
+  },
+  {
+    "repo": "react-web-store",
     "uniques": 3,
     "count": 3
   },
@@ -55,6 +60,11 @@
     "count": 3
   },
   {
+    "repo": "WebApi-Auth",
+    "uniques": 2,
+    "count": 2
+  },
+  {
     "repo": "UE-Tanks",
     "uniques": 2,
     "count": 2
@@ -65,7 +75,7 @@
     "count": 2
   },
   {
-    "repo": "spotify-telegram-bot",
+    "repo": "POSIX-lab",
     "uniques": 2,
     "count": 2
   },
@@ -80,11 +90,6 @@
     "count": 1
   },
   {
-    "repo": "POSIX-lab",
-    "uniques": 1,
-    "count": 1
-  },
-  {
     "repo": "parallax-js",
     "uniques": 1,
     "count": 1
@@ -93,10 +98,5 @@
     "repo": "ChatApplication",
     "uniques": 1,
     "count": 1
-  },
-  {
-    "repo": "Anlzr",
-    "uniques": 0,
-    "count": 0
   }
 ]
