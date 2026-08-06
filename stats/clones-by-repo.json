@@ -1,13 +1,8 @@
 [
   {
-    "repo": ".NET-toolbox",
-    "uniques": 10,
-    "count": 13
-  },
-  {
     "repo": "Various-API-Standards",
-    "uniques": 8,
-    "count": 8
+    "uniques": 7,
+    "count": 7
   },
   {
     "repo": "Anlzr",
@@ -15,22 +10,27 @@
     "count": 8
   },
   {
+    "repo": "Cmpr",
+    "uniques": 6,
+    "count": 6
+  },
+  {
+    "repo": ".NET-toolbox",
+    "uniques": 6,
+    "count": 9
+  },
+  {
     "repo": "FBlockEXE",
     "uniques": 5,
     "count": 5
   },
   {
-    "repo": "Cmpr",
+    "repo": "spotify-telegram-bot",
     "uniques": 4,
     "count": 4
   },
   {
     "repo": "unity-editor-tools",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "spotify-telegram-bot",
     "uniques": 3,
     "count": 3
   },
@@ -41,11 +41,6 @@
   },
   {
     "repo": "react-forum",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "Design-Patterns",
     "uniques": 3,
     "count": 3
   },
@@ -70,17 +65,12 @@
     "count": 2
   },
   {
-    "repo": "UE-Shooter",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "POSIX-lab",
     "uniques": 2,
     "count": 2
   },
   {
-    "repo": "Microsoft-Setup",
+    "repo": "parallax-js",
     "uniques": 2,
     "count": 2
   },
@@ -90,7 +80,17 @@
     "count": 1
   },
   {
-    "repo": "parallax-js",
+    "repo": "UE-Shooter",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "Microsoft-Setup",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "Design-Patterns",
     "uniques": 1,
     "count": 1
   },
