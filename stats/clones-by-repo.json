@@ -11,8 +11,8 @@
   },
   {
     "repo": ".NET-toolbox",
-    "uniques": 6,
-    "count": 7
+    "uniques": 5,
+    "count": 6
   },
   {
     "repo": "Various-API-Standards",
@@ -35,16 +35,6 @@
     "count": 3
   },
   {
-    "repo": "Casino-TDD",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "WebApi-Auth",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "POSIX-lab",
     "uniques": 2,
     "count": 2
@@ -60,9 +50,14 @@
     "count": 2
   },
   {
-    "repo": "Design-Patterns",
+    "repo": "Casino-TDD",
     "uniques": 2,
     "count": 2
+  },
+  {
+    "repo": "WebApi-Auth",
+    "uniques": 1,
+    "count": 1
   },
   {
     "repo": "Unity-Platformer",
@@ -86,6 +81,11 @@
   },
   {
     "repo": "react-forum",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "Design-Patterns",
     "uniques": 1,
     "count": 1
   },
