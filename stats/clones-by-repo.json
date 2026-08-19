@@ -1,13 +1,8 @@
 [
   {
     "repo": "Anlzr",
-    "uniques": 14,
-    "count": 16
-  },
-  {
-    "repo": "Cmpr",
-    "uniques": 7,
-    "count": 7
+    "uniques": 8,
+    "count": 9
   },
   {
     "repo": "Various-API-Standards",
@@ -25,14 +20,14 @@
     "count": 3
   },
   {
-    "repo": "spotify-telegram-bot",
+    "repo": "Cmpr",
     "uniques": 3,
     "count": 3
   },
   {
-    "repo": "ChatApplication",
-    "uniques": 3,
-    "count": 3
+    "repo": "spotify-telegram-bot",
+    "uniques": 2,
+    "count": 2
   },
   {
     "repo": "react-web-store",
@@ -61,6 +56,11 @@
   },
   {
     "repo": "Design-Patterns",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "ChatApplication",
     "uniques": 2,
     "count": 2
   },
