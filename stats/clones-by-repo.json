@@ -1,13 +1,13 @@
 [
   {
     "repo": "Various-API-Standards",
-    "uniques": 4,
-    "count": 4
+    "uniques": 6,
+    "count": 6
   },
   {
     "repo": ".NET-toolbox",
-    "uniques": 4,
-    "count": 4
+    "uniques": 3,
+    "count": 3
   },
   {
     "repo": "WebApi-Auth",
@@ -31,11 +31,6 @@
   },
   {
     "repo": "POSIX-lab",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "Microsoft-Setup",
     "uniques": 2,
     "count": 2
   },
@@ -80,7 +75,7 @@
     "count": 1
   },
   {
-    "repo": "FBlockEXE",
+    "repo": "Microsoft-Setup",
     "uniques": 1,
     "count": 1
   },
@@ -98,5 +93,10 @@
     "repo": "2D-sandbox",
     "uniques": 1,
     "count": 1
+  },
+  {
+    "repo": "FBlockEXE",
+    "uniques": 0,
+    "count": 0
   }
 ]
