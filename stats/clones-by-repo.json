@@ -5,6 +5,11 @@
     "count": 6
   },
   {
+    "repo": "Unity-Platformer",
+    "uniques": 3,
+    "count": 4
+  },
+  {
     "repo": ".NET-toolbox",
     "uniques": 3,
     "count": 3
@@ -15,22 +20,7 @@
     "count": 2
   },
   {
-    "repo": "Unity-Platformer",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "react-web-store",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "react-forum",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "POSIX-lab",
     "uniques": 2,
     "count": 2
   },
@@ -66,6 +56,16 @@
   },
   {
     "repo": "spotify-telegram-bot",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "react-web-store",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "POSIX-lab",
     "uniques": 1,
     "count": 1
   },
