@@ -10,7 +10,7 @@
     "count": 4
   },
   {
-    "repo": ".NET-toolbox",
+    "repo": "ChatApplication",
     "uniques": 3,
     "count": 3
   },
@@ -20,7 +20,17 @@
     "count": 2
   },
   {
+    "repo": "spotify-telegram-bot",
+    "uniques": 2,
+    "count": 2
+  },
+  {
     "repo": "react-forum",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "parallax-js",
     "uniques": 2,
     "count": 2
   },
@@ -30,12 +40,12 @@
     "count": 2
   },
   {
-    "repo": "ChatApplication",
+    "repo": "Anlzr",
     "uniques": 2,
     "count": 2
   },
   {
-    "repo": "Anlzr",
+    "repo": ".NET-toolbox",
     "uniques": 2,
     "count": 2
   },
@@ -55,22 +65,12 @@
     "count": 1
   },
   {
-    "repo": "spotify-telegram-bot",
-    "uniques": 1,
-    "count": 1
-  },
-  {
     "repo": "react-web-store",
     "uniques": 1,
     "count": 1
   },
   {
     "repo": "POSIX-lab",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "parallax-js",
     "uniques": 1,
     "count": 1
   },
