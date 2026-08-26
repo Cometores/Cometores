@@ -5,6 +5,11 @@
     "count": 5
   },
   {
+    "repo": "WebApi-Auth",
+    "uniques": 3,
+    "count": 3
+  },
+  {
     "repo": "Unity-Platformer",
     "uniques": 3,
     "count": 4
@@ -28,11 +33,6 @@
     "repo": "Anlzr",
     "uniques": 3,
     "count": 3
-  },
-  {
-    "repo": "WebApi-Auth",
-    "uniques": 2,
-    "count": 2
   },
   {
     "repo": "Design-Patterns",
