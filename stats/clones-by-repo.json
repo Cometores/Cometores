@@ -1,18 +1,18 @@
 [
   {
-    "repo": "Various-API-Standards",
+    "repo": "Cmpr",
     "uniques": 5,
     "count": 5
   },
   {
-    "repo": "WebApi-Auth",
+    "repo": "Various-API-Standards",
     "uniques": 3,
     "count": 3
   },
   {
     "repo": "Unity-Platformer",
     "uniques": 3,
-    "count": 4
+    "count": 6
   },
   {
     "repo": "react-forum",
@@ -20,22 +20,17 @@
     "count": 3
   },
   {
-    "repo": "Cmpr",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "ChatApplication",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "Anlzr",
-    "uniques": 3,
-    "count": 3
+    "repo": "WebApi-Auth",
+    "uniques": 2,
+    "count": 2
   },
   {
     "repo": "Design-Patterns",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "Anlzr",
     "uniques": 2,
     "count": 2
   },
@@ -76,6 +71,11 @@
   },
   {
     "repo": "Microsoft-Setup",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "ChatApplication",
     "uniques": 1,
     "count": 1
   },
