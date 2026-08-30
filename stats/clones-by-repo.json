@@ -1,18 +1,18 @@
 [
   {
-    "repo": "Cmpr",
-    "uniques": 5,
-    "count": 5
-  },
-  {
     "repo": "Anlzr",
     "uniques": 5,
     "count": 5
   },
   {
     "repo": "Various-API-Standards",
-    "uniques": 3,
-    "count": 3
+    "uniques": 4,
+    "count": 4
+  },
+  {
+    "repo": "Cmpr",
+    "uniques": 4,
+    "count": 4
   },
   {
     "repo": "Unity-Platformer",
@@ -21,11 +21,6 @@
   },
   {
     "repo": "react-forum",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "WebApi-Auth",
     "uniques": 2,
     "count": 2
   },
@@ -43,6 +38,11 @@
     "repo": ".NET-toolbox",
     "uniques": 2,
     "count": 2
+  },
+  {
+    "repo": "WebApi-Auth",
+    "uniques": 1,
+    "count": 1
   },
   {
     "repo": "unity-editor-tools",
