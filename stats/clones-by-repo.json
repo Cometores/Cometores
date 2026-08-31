@@ -1,8 +1,13 @@
 [
   {
-    "repo": "Anlzr",
+    "repo": "Cmpr",
     "uniques": 5,
     "count": 5
+  },
+  {
+    "repo": "Anlzr",
+    "uniques": 5,
+    "count": 6
   },
   {
     "repo": "Various-API-Standards",
@@ -10,14 +15,9 @@
     "count": 4
   },
   {
-    "repo": "Cmpr",
-    "uniques": 4,
-    "count": 4
-  },
-  {
     "repo": "Unity-Platformer",
-    "uniques": 3,
-    "count": 6
+    "uniques": 4,
+    "count": 7
   },
   {
     "repo": "react-forum",
@@ -75,6 +75,11 @@
     "count": 1
   },
   {
+    "repo": "FBlockEXE",
+    "uniques": 1,
+    "count": 1
+  },
+  {
     "repo": "ChatApplication",
     "uniques": 1,
     "count": 1
@@ -86,11 +91,6 @@
   },
   {
     "repo": "UE-Tanks",
-    "uniques": 0,
-    "count": 0
-  },
-  {
-    "repo": "FBlockEXE",
     "uniques": 0,
     "count": 0
   },
