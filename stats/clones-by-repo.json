@@ -1,23 +1,33 @@
 [
   {
-    "repo": "Cmpr",
-    "uniques": 5,
-    "count": 5
+    "repo": "Various-API-Standards",
+    "uniques": 6,
+    "count": 10
   },
   {
-    "repo": "Anlzr",
-    "uniques": 5,
+    "repo": "Cmpr",
+    "uniques": 6,
     "count": 6
   },
   {
-    "repo": "Various-API-Standards",
-    "uniques": 4,
-    "count": 4
+    "repo": "Anlzr",
+    "uniques": 6,
+    "count": 7
   },
   {
     "repo": "Unity-Platformer",
     "uniques": 4,
     "count": 7
+  },
+  {
+    "repo": "unity-editor-tools",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "spotify-telegram-bot",
+    "uniques": 2,
+    "count": 2
   },
   {
     "repo": "react-forum",
@@ -45,17 +55,7 @@
     "count": 1
   },
   {
-    "repo": "unity-editor-tools",
-    "uniques": 1,
-    "count": 1
-  },
-  {
     "repo": "UE-Shooter",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "spotify-telegram-bot",
     "uniques": 1,
     "count": 1
   },
