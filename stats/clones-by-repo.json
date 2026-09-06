@@ -20,22 +20,12 @@
     "count": 7
   },
   {
-    "repo": "unity-editor-tools",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "spotify-telegram-bot",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "POSIX-lab",
-    "uniques": 2,
-    "count": 2
+    "uniques": 3,
+    "count": 4
   },
   {
-    "repo": "parallax-js",
+    "repo": "unity-editor-tools",
     "uniques": 2,
     "count": 2
   },
@@ -65,12 +55,22 @@
     "count": 1
   },
   {
+    "repo": "spotify-telegram-bot",
+    "uniques": 1,
+    "count": 1
+  },
+  {
     "repo": "react-web-store",
     "uniques": 1,
     "count": 1
   },
   {
     "repo": "react-forum",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "parallax-js",
     "uniques": 1,
     "count": 1
   },
