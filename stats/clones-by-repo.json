@@ -1,18 +1,13 @@
 [
   {
     "repo": "Various-API-Standards",
-    "uniques": 12,
-    "count": 21
+    "uniques": 14,
+    "count": 23
   },
   {
     "repo": ".NET-toolbox",
-    "uniques": 8,
-    "count": 8
-  },
-  {
-    "repo": "Anlzr",
-    "uniques": 6,
-    "count": 7
+    "uniques": 9,
+    "count": 9
   },
   {
     "repo": "Cmpr",
@@ -25,9 +20,9 @@
     "count": 5
   },
   {
-    "repo": "POSIX-lab",
+    "repo": "Anlzr",
     "uniques": 4,
-    "count": 5
+    "count": 4
   },
   {
     "repo": "2D-sandbox",
@@ -40,8 +35,13 @@
     "count": 3
   },
   {
-    "repo": "Microsoft-Setup",
+    "repo": "POSIX-lab",
     "uniques": 3,
+    "count": 4
+  },
+  {
+    "repo": "UE-Shooter",
+    "uniques": 2,
     "count": 3
   },
   {
@@ -55,7 +55,17 @@
     "count": 2
   },
   {
+    "repo": "Microsoft-Setup",
+    "uniques": 2,
+    "count": 2
+  },
+  {
     "repo": "FBlockEXE",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "Design-Patterns",
     "uniques": 2,
     "count": 2
   },
@@ -70,22 +80,12 @@
     "count": 1
   },
   {
-    "repo": "UE-Shooter",
-    "uniques": 1,
-    "count": 1
-  },
-  {
     "repo": "react-forum",
     "uniques": 1,
     "count": 1
   },
   {
     "repo": "parallax-js",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "Design-Patterns",
     "uniques": 1,
     "count": 1
   },
