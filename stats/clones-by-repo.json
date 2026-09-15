@@ -2,17 +2,17 @@
   {
     "repo": ".NET-toolbox",
     "uniques": 17,
-    "count": 17
+    "count": 18
   },
   {
     "repo": "Various-API-Standards",
-    "uniques": 13,
-    "count": 22
+    "uniques": 15,
+    "count": 24
   },
   {
     "repo": "POSIX-lab",
-    "uniques": 7,
-    "count": 8
+    "uniques": 8,
+    "count": 9
   },
   {
     "repo": "Cmpr",
@@ -20,7 +20,7 @@
     "count": 6
   },
   {
-    "repo": "unity-editor-tools",
+    "repo": "Microsoft-Setup",
     "uniques": 5,
     "count": 5
   },
@@ -35,9 +35,14 @@
     "count": 5
   },
   {
-    "repo": "Microsoft-Setup",
+    "repo": "unity-editor-tools",
     "uniques": 4,
     "count": 4
+  },
+  {
+    "repo": "spotify-telegram-bot",
+    "uniques": 4,
+    "count": 6
   },
   {
     "repo": "FBlockEXE",
@@ -58,11 +63,6 @@
     "repo": "UE-Shooter",
     "uniques": 3,
     "count": 4
-  },
-  {
-    "repo": "spotify-telegram-bot",
-    "uniques": 3,
-    "count": 5
   },
   {
     "repo": "react-web-store",
