@@ -1,8 +1,8 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 19,
-    "count": 20
+    "uniques": 23,
+    "count": 24
   },
   {
     "repo": "Various-API-Standards",
@@ -11,8 +11,8 @@
   },
   {
     "repo": "POSIX-lab",
-    "uniques": 8,
-    "count": 9
+    "uniques": 12,
+    "count": 13
   },
   {
     "repo": "parallax-js",
@@ -20,12 +20,12 @@
     "count": 6
   },
   {
-    "repo": "Microsoft-Setup",
+    "repo": "spotify-telegram-bot",
     "uniques": 5,
-    "count": 5
+    "count": 7
   },
   {
-    "repo": "Cmpr",
+    "repo": "Microsoft-Setup",
     "uniques": 5,
     "count": 5
   },
@@ -35,12 +35,12 @@
     "count": 5
   },
   {
-    "repo": "unity-editor-tools",
+    "repo": "UE-Tanks",
     "uniques": 4,
     "count": 4
   },
   {
-    "repo": "spotify-telegram-bot",
+    "repo": "UE-Shooter",
     "uniques": 4,
     "count": 6
   },
@@ -60,34 +60,29 @@
     "count": 4
   },
   {
-    "repo": "Anlzr",
-    "uniques": 4,
-    "count": 4
-  },
-  {
-    "repo": "Unity-Platformer",
+    "repo": "unity-editor-tools",
     "uniques": 3,
-    "count": 4
-  },
-  {
-    "repo": "UE-Shooter",
-    "uniques": 3,
-    "count": 4
-  },
-  {
-    "repo": "UE-Tanks",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "Casino-TDD",
-    "uniques": 2,
-    "count": 2
+    "count": 3
   },
   {
     "repo": "WebApi-Auth",
-    "uniques": 1,
-    "count": 1
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "Unity-Platformer",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "Cmpr",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "Anlzr",
+    "uniques": 2,
+    "count": 2
   },
   {
     "repo": "react-forum",
@@ -96,6 +91,11 @@
   },
   {
     "repo": "ChatApplication",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "Casino-TDD",
     "uniques": 1,
     "count": 1
   }
