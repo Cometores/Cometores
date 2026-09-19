@@ -6,13 +6,18 @@
   },
   {
     "repo": "Various-API-Standards",
-    "uniques": 19,
-    "count": 21
+    "uniques": 14,
+    "count": 14
   },
   {
     "repo": "POSIX-lab",
-    "uniques": 12,
-    "count": 12
+    "uniques": 13,
+    "count": 13
+  },
+  {
+    "repo": "spotify-telegram-bot",
+    "uniques": 6,
+    "count": 8
   },
   {
     "repo": "parallax-js",
@@ -23,11 +28,6 @@
     "repo": "2D-sandbox",
     "uniques": 6,
     "count": 6
-  },
-  {
-    "repo": "spotify-telegram-bot",
-    "uniques": 5,
-    "count": 7
   },
   {
     "repo": "Microsoft-Setup",
@@ -72,7 +72,7 @@
   {
     "repo": "Unity-Platformer",
     "uniques": 2,
-    "count": 2
+    "count": 5
   },
   {
     "repo": "Cmpr",
