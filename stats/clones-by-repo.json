@@ -1,8 +1,8 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 56,
-    "count": 75
+    "uniques": 55,
+    "count": 74
   },
   {
     "repo": "Various-API-Standards",
@@ -17,7 +17,7 @@
   {
     "repo": "spotify-telegram-bot",
     "uniques": 7,
-    "count": 9
+    "count": 7
   },
   {
     "repo": "parallax-js",
@@ -51,11 +51,11 @@
   },
   {
     "repo": "Microsoft-Setup",
-    "uniques": 5,
-    "count": 5
+    "uniques": 4,
+    "count": 4
   },
   {
-    "repo": "react-web-store",
+    "repo": "Cmpr",
     "uniques": 4,
     "count": 4
   },
@@ -70,12 +70,12 @@
     "count": 3
   },
   {
-    "repo": "FBlockEXE",
+    "repo": "react-web-store",
     "uniques": 3,
     "count": 3
   },
   {
-    "repo": "Cmpr",
+    "repo": "FBlockEXE",
     "uniques": 3,
     "count": 3
   },
