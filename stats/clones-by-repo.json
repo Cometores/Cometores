@@ -1,13 +1,13 @@
 [
   {
-    "repo": "POSIX-lab",
-    "uniques": 17,
-    "count": 17
+    "repo": ".NET-toolbox",
+    "uniques": 31,
+    "count": 37
   },
   {
-    "repo": ".NET-toolbox",
-    "uniques": 11,
-    "count": 11
+    "repo": "POSIX-lab",
+    "uniques": 18,
+    "count": 18
   },
   {
     "repo": "Various-API-Standards",
@@ -16,8 +16,8 @@
   },
   {
     "repo": "Cmpr",
-    "uniques": 7,
-    "count": 7
+    "uniques": 6,
+    "count": 6
   },
   {
     "repo": "FBlockEXE",
@@ -40,6 +40,21 @@
     "count": 4
   },
   {
+    "repo": "react-web-store",
+    "uniques": 4,
+    "count": 4
+  },
+  {
+    "repo": "Design-Patterns",
+    "uniques": 4,
+    "count": 4
+  },
+  {
+    "repo": "ChatApplication",
+    "uniques": 4,
+    "count": 4
+  },
+  {
     "repo": "Casino-TDD",
     "uniques": 4,
     "count": 4
@@ -50,17 +65,7 @@
     "count": 4
   },
   {
-    "repo": "react-web-store",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "Design-Patterns",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "ChatApplication",
+    "repo": "react-forum",
     "uniques": 3,
     "count": 3
   },
@@ -85,18 +90,13 @@
     "count": 2
   },
   {
-    "repo": "react-forum",
+    "repo": "parallax-js",
     "uniques": 2,
     "count": 2
   },
   {
-    "repo": "parallax-js",
-    "uniques": 1,
-    "count": 1
-  },
-  {
     "repo": "Microsoft-Setup",
-    "uniques": 1,
-    "count": 1
+    "uniques": 2,
+    "count": 2
   }
 ]
