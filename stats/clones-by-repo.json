@@ -1,23 +1,18 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 31,
-    "count": 37
+    "uniques": 30,
+    "count": 36
   },
   {
     "repo": "POSIX-lab",
-    "uniques": 18,
-    "count": 18
+    "uniques": 20,
+    "count": 20
   },
   {
     "repo": "Various-API-Standards",
-    "uniques": 9,
-    "count": 9
-  },
-  {
-    "repo": "Cmpr",
-    "uniques": 6,
-    "count": 6
+    "uniques": 8,
+    "count": 8
   },
   {
     "repo": "FBlockEXE",
@@ -25,7 +20,7 @@
     "count": 5
   },
   {
-    "repo": "Anlzr",
+    "repo": "Design-Patterns",
     "uniques": 5,
     "count": 5
   },
@@ -45,7 +40,7 @@
     "count": 4
   },
   {
-    "repo": "Design-Patterns",
+    "repo": "Cmpr",
     "uniques": 4,
     "count": 4
   },
@@ -60,6 +55,11 @@
     "count": 4
   },
   {
+    "repo": "Anlzr",
+    "uniques": 4,
+    "count": 4
+  },
+  {
     "repo": "Unity-Platformer",
     "uniques": 3,
     "count": 4
@@ -68,21 +68,6 @@
     "repo": "react-forum",
     "uniques": 3,
     "count": 3
-  },
-  {
-    "repo": "WebApi-Auth",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "UE-Tanks",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "UE-Shooter",
-    "uniques": 2,
-    "count": 2
   },
   {
     "repo": "spotify-telegram-bot",
@@ -98,5 +83,20 @@
     "repo": "Microsoft-Setup",
     "uniques": 2,
     "count": 2
+  },
+  {
+    "repo": "WebApi-Auth",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "UE-Tanks",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "UE-Shooter",
+    "uniques": 1,
+    "count": 1
   }
 ]
