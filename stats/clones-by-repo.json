@@ -1,36 +1,21 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 31,
-    "count": 37
+    "uniques": 29,
+    "count": 35
   },
   {
     "repo": "POSIX-lab",
-    "uniques": 19,
-    "count": 19
+    "uniques": 20,
+    "count": 20
   },
   {
     "repo": "Various-API-Standards",
-    "uniques": 9,
-    "count": 9
+    "uniques": 7,
+    "count": 7
   },
   {
     "repo": "Design-Patterns",
-    "uniques": 5,
-    "count": 5
-  },
-  {
-    "repo": "unity-editor-tools",
-    "uniques": 4,
-    "count": 4
-  },
-  {
-    "repo": "react-web-store",
-    "uniques": 4,
-    "count": 4
-  },
-  {
-    "repo": "FBlockEXE",
     "uniques": 4,
     "count": 4
   },
@@ -45,19 +30,19 @@
     "count": 4
   },
   {
-    "repo": "Anlzr",
-    "uniques": 4,
-    "count": 4
-  },
-  {
-    "repo": "2D-sandbox",
-    "uniques": 4,
-    "count": 4
-  },
-  {
     "repo": "Unity-Platformer",
     "uniques": 3,
     "count": 4
+  },
+  {
+    "repo": "UE-Shooter",
+    "uniques": 3,
+    "count": 4
+  },
+  {
+    "repo": "react-web-store",
+    "uniques": 3,
+    "count": 3
   },
   {
     "repo": "react-forum",
@@ -70,7 +55,32 @@
     "count": 3
   },
   {
+    "repo": "FBlockEXE",
+    "uniques": 3,
+    "count": 3
+  },
+  {
+    "repo": "ChatApplication",
+    "uniques": 3,
+    "count": 3
+  },
+  {
+    "repo": "Anlzr",
+    "uniques": 3,
+    "count": 3
+  },
+  {
+    "repo": "2D-sandbox",
+    "uniques": 3,
+    "count": 3
+  },
+  {
     "repo": "WebApi-Auth",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "unity-editor-tools",
     "uniques": 2,
     "count": 2
   },
@@ -85,17 +95,7 @@
     "count": 2
   },
   {
-    "repo": "ChatApplication",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "UE-Tanks",
-    "uniques": 1,
-    "count": 1
-  },
-  {
-    "repo": "UE-Shooter",
     "uniques": 1,
     "count": 1
   }
