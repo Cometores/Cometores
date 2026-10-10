@@ -6,8 +6,8 @@
   },
   {
     "repo": "POSIX-lab",
-    "uniques": 20,
-    "count": 20
+    "uniques": 23,
+    "count": 23
   },
   {
     "repo": "Various-API-Standards",
@@ -16,8 +16,13 @@
   },
   {
     "repo": "Design-Patterns",
+    "uniques": 5,
+    "count": 5
+  },
+  {
+    "repo": "Unity-Platformer",
     "uniques": 4,
-    "count": 4
+    "count": 5
   },
   {
     "repo": "Cmpr",
@@ -25,19 +30,14 @@
     "count": 4
   },
   {
-    "repo": "Casino-TDD",
-    "uniques": 4,
-    "count": 4
-  },
-  {
-    "repo": "Unity-Platformer",
-    "uniques": 3,
-    "count": 4
-  },
-  {
     "repo": "UE-Shooter",
     "uniques": 3,
     "count": 4
+  },
+  {
+    "repo": "spotify-telegram-bot",
+    "uniques": 3,
+    "count": 3
   },
   {
     "repo": "react-web-store",
@@ -65,12 +65,7 @@
     "count": 3
   },
   {
-    "repo": "Anlzr",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "2D-sandbox",
+    "repo": "Casino-TDD",
     "uniques": 3,
     "count": 3
   },
@@ -85,17 +80,22 @@
     "count": 2
   },
   {
-    "repo": "spotify-telegram-bot",
-    "uniques": 2,
-    "count": 2
-  },
-  {
     "repo": "parallax-js",
     "uniques": 2,
     "count": 2
   },
   {
+    "repo": "Anlzr",
+    "uniques": 2,
+    "count": 2
+  },
+  {
     "repo": "UE-Tanks",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "2D-sandbox",
     "uniques": 1,
     "count": 1
   }
