@@ -1,13 +1,13 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 29,
-    "count": 35
+    "uniques": 28,
+    "count": 34
   },
   {
     "repo": "POSIX-lab",
-    "uniques": 24,
-    "count": 25
+    "uniques": 23,
+    "count": 24
   },
   {
     "repo": "FBlockEXE",
@@ -15,7 +15,7 @@
     "count": 6
   },
   {
-    "repo": "Various-API-Standards",
+    "repo": "WebApi-Auth",
     "uniques": 5,
     "count": 5
   },
@@ -30,17 +30,7 @@
     "count": 6
   },
   {
-    "repo": "Design-Patterns",
-    "uniques": 5,
-    "count": 5
-  },
-  {
-    "repo": "Cmpr",
-    "uniques": 5,
-    "count": 5
-  },
-  {
-    "repo": "WebApi-Auth",
+    "repo": "Various-API-Standards",
     "uniques": 4,
     "count": 4
   },
@@ -70,7 +60,12 @@
     "count": 4
   },
   {
-    "repo": "ChatApplication",
+    "repo": "Design-Patterns",
+    "uniques": 4,
+    "count": 4
+  },
+  {
+    "repo": "Cmpr",
     "uniques": 4,
     "count": 4
   },
@@ -95,8 +90,13 @@
     "count": 3
   },
   {
-    "repo": "Anlzr",
+    "repo": "ChatApplication",
     "uniques": 3,
     "count": 3
+  },
+  {
+    "repo": "Anlzr",
+    "uniques": 2,
+    "count": 2
   }
 ]
