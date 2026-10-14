@@ -6,8 +6,13 @@
   },
   {
     "repo": "POSIX-lab",
-    "uniques": 23,
-    "count": 24
+    "uniques": 21,
+    "count": 22
+  },
+  {
+    "repo": "UE-Shooter",
+    "uniques": 6,
+    "count": 7
   },
   {
     "repo": "FBlockEXE",
@@ -21,11 +26,6 @@
   },
   {
     "repo": "Unity-Platformer",
-    "uniques": 5,
-    "count": 6
-  },
-  {
-    "repo": "UE-Shooter",
     "uniques": 5,
     "count": 6
   },
@@ -51,6 +51,11 @@
   },
   {
     "repo": "react-forum",
+    "uniques": 4,
+    "count": 4
+  },
+  {
+    "repo": "parallax-js",
     "uniques": 4,
     "count": 4
   },
@@ -81,11 +86,6 @@
   },
   {
     "repo": "unity-editor-tools",
-    "uniques": 3,
-    "count": 3
-  },
-  {
-    "repo": "parallax-js",
     "uniques": 3,
     "count": 3
   },
