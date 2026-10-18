@@ -15,14 +15,14 @@
     "count": 8
   },
   {
+    "repo": "Unity-Platformer",
+    "uniques": 7,
+    "count": 8
+  },
+  {
     "repo": "UE-Shooter",
     "uniques": 6,
     "count": 7
-  },
-  {
-    "repo": "WebApi-Auth",
-    "uniques": 5,
-    "count": 5
   },
   {
     "repo": "Various-API-Standards",
@@ -30,12 +30,7 @@
     "count": 5
   },
   {
-    "repo": "Unity-Platformer",
-    "uniques": 5,
-    "count": 6
-  },
-  {
-    "repo": "parallax-js",
+    "repo": "Microsoft-Setup",
     "uniques": 5,
     "count": 5
   },
@@ -50,12 +45,17 @@
     "count": 5
   },
   {
-    "repo": "unity-editor-tools",
+    "repo": "WebApi-Auth",
     "uniques": 4,
     "count": 4
   },
   {
-    "repo": "Microsoft-Setup",
+    "repo": "spotify-telegram-bot",
+    "uniques": 4,
+    "count": 4
+  },
+  {
+    "repo": "parallax-js",
     "uniques": 4,
     "count": 4
   },
@@ -65,9 +65,9 @@
     "count": 4
   },
   {
-    "repo": "2D-sandbox",
-    "uniques": 4,
-    "count": 4
+    "repo": "unity-editor-tools",
+    "uniques": 3,
+    "count": 3
   },
   {
     "repo": "UE-Tanks",
@@ -75,7 +75,7 @@
     "count": 3
   },
   {
-    "repo": "spotify-telegram-bot",
+    "repo": "react-web-store",
     "uniques": 3,
     "count": 3
   },
@@ -90,9 +90,9 @@
     "count": 3
   },
   {
-    "repo": "react-web-store",
-    "uniques": 2,
-    "count": 2
+    "repo": "2D-sandbox",
+    "uniques": 3,
+    "count": 3
   },
   {
     "repo": "react-forum",
