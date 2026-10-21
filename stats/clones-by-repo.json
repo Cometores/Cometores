@@ -6,8 +6,8 @@
   },
   {
     "repo": "POSIX-lab",
-    "uniques": 12,
-    "count": 13
+    "uniques": 9,
+    "count": 10
   },
   {
     "repo": "UE-Shooter",
@@ -21,12 +21,7 @@
   },
   {
     "repo": "Unity-Platformer",
-    "uniques": 7,
-    "count": 8
-  },
-  {
-    "repo": "Design-Patterns",
-    "uniques": 7,
+    "uniques": 6,
     "count": 7
   },
   {
@@ -36,6 +31,11 @@
   },
   {
     "repo": "Microsoft-Setup",
+    "uniques": 6,
+    "count": 6
+  },
+  {
+    "repo": "Design-Patterns",
     "uniques": 6,
     "count": 6
   },
@@ -50,9 +50,9 @@
     "count": 5
   },
   {
-    "repo": "Anlzr",
-    "uniques": 5,
-    "count": 5
+    "repo": "Various-API-Standards",
+    "uniques": 4,
+    "count": 4
   },
   {
     "repo": "Cmpr",
@@ -60,9 +60,14 @@
     "count": 4
   },
   {
-    "repo": "Various-API-Standards",
-    "uniques": 3,
-    "count": 3
+    "repo": "Anlzr",
+    "uniques": 4,
+    "count": 4
+  },
+  {
+    "repo": "2D-sandbox",
+    "uniques": 4,
+    "count": 4
   },
   {
     "repo": "UE-Tanks",
@@ -75,7 +80,7 @@
     "count": 3
   },
   {
-    "repo": "2D-sandbox",
+    "repo": "Casino-TDD",
     "uniques": 3,
     "count": 3
   },
@@ -91,11 +96,6 @@
   },
   {
     "repo": "ChatApplication",
-    "uniques": 2,
-    "count": 2
-  },
-  {
-    "repo": "Casino-TDD",
     "uniques": 2,
     "count": 2
   }
