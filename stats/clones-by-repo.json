@@ -1,8 +1,8 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 28,
-    "count": 32
+    "uniques": 29,
+    "count": 33
   },
   {
     "repo": "POSIX-lab",
@@ -20,6 +20,16 @@
     "count": 8
   },
   {
+    "repo": "Microsoft-Setup",
+    "uniques": 7,
+    "count": 7
+  },
+  {
+    "repo": "Design-Patterns",
+    "uniques": 7,
+    "count": 7
+  },
+  {
     "repo": "Unity-Platformer",
     "uniques": 6,
     "count": 7
@@ -30,24 +40,19 @@
     "count": 6
   },
   {
-    "repo": "Microsoft-Setup",
+    "repo": "spotify-telegram-bot",
     "uniques": 6,
     "count": 6
   },
   {
-    "repo": "Design-Patterns",
-    "uniques": 6,
-    "count": 6
+    "repo": "Anlzr",
+    "uniques": 5,
+    "count": 5
   },
   {
     "repo": "WebApi-Auth",
-    "uniques": 5,
-    "count": 5
-  },
-  {
-    "repo": "spotify-telegram-bot",
-    "uniques": 5,
-    "count": 5
+    "uniques": 4,
+    "count": 4
   },
   {
     "repo": "Various-API-Standards",
@@ -56,11 +61,6 @@
   },
   {
     "repo": "Cmpr",
-    "uniques": 4,
-    "count": 4
-  },
-  {
-    "repo": "Anlzr",
     "uniques": 4,
     "count": 4
   },
@@ -75,6 +75,11 @@
     "count": 3
   },
   {
+    "repo": "react-web-store",
+    "uniques": 3,
+    "count": 3
+  },
+  {
     "repo": "parallax-js",
     "uniques": 3,
     "count": 3
@@ -83,11 +88,6 @@
     "repo": "Casino-TDD",
     "uniques": 3,
     "count": 3
-  },
-  {
-    "repo": "react-web-store",
-    "uniques": 2,
-    "count": 2
   },
   {
     "repo": "react-forum",
