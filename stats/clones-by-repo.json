@@ -5,11 +5,6 @@
     "count": 33
   },
   {
-    "repo": "POSIX-lab",
-    "uniques": 8,
-    "count": 9
-  },
-  {
     "repo": "UE-Shooter",
     "uniques": 7,
     "count": 7
@@ -25,17 +20,7 @@
     "count": 7
   },
   {
-    "repo": "Unity-Platformer",
-    "uniques": 6,
-    "count": 7
-  },
-  {
     "repo": "unity-editor-tools",
-    "uniques": 6,
-    "count": 6
-  },
-  {
-    "repo": "spotify-telegram-bot",
     "uniques": 6,
     "count": 6
   },
@@ -45,12 +30,27 @@
     "count": 6
   },
   {
-    "repo": "Cmpr",
+    "repo": "Anlzr",
+    "uniques": 6,
+    "count": 6
+  },
+  {
+    "repo": "Unity-Platformer",
+    "uniques": 5,
+    "count": 6
+  },
+  {
+    "repo": "spotify-telegram-bot",
     "uniques": 5,
     "count": 5
   },
   {
-    "repo": "Anlzr",
+    "repo": "POSIX-lab",
+    "uniques": 5,
+    "count": 5
+  },
+  {
+    "repo": "Cmpr",
     "uniques": 5,
     "count": 5
   },
