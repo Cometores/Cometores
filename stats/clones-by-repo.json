@@ -1,23 +1,13 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 29,
-    "count": 33
+    "uniques": 30,
+    "count": 35
   },
   {
-    "repo": "UE-Shooter",
+    "repo": "Microsoft-Setup",
     "uniques": 7,
-    "count": 7
-  },
-  {
-    "repo": "FBlockEXE",
-    "uniques": 7,
-    "count": 7
-  },
-  {
-    "repo": "Design-Patterns",
-    "uniques": 7,
-    "count": 7
+    "count": 8
   },
   {
     "repo": "unity-editor-tools",
@@ -25,7 +15,22 @@
     "count": 6
   },
   {
-    "repo": "Microsoft-Setup",
+    "repo": "UE-Shooter",
+    "uniques": 6,
+    "count": 6
+  },
+  {
+    "repo": "spotify-telegram-bot",
+    "uniques": 6,
+    "count": 7
+  },
+  {
+    "repo": "FBlockEXE",
+    "uniques": 6,
+    "count": 7
+  },
+  {
+    "repo": "Design-Patterns",
     "uniques": 6,
     "count": 6
   },
@@ -40,19 +45,14 @@
     "count": 6
   },
   {
-    "repo": "spotify-telegram-bot",
-    "uniques": 5,
-    "count": 5
-  },
-  {
-    "repo": "POSIX-lab",
-    "uniques": 5,
-    "count": 5
-  },
-  {
     "repo": "Cmpr",
     "uniques": 5,
     "count": 5
+  },
+  {
+    "repo": "Casino-TDD",
+    "uniques": 5,
+    "count": 6
   },
   {
     "repo": "WebApi-Auth",
@@ -60,27 +60,27 @@
     "count": 4
   },
   {
-    "repo": "2D-sandbox",
-    "uniques": 4,
-    "count": 4
-  },
-  {
     "repo": "Various-API-Standards",
-    "uniques": 3,
-    "count": 3
+    "uniques": 4,
+    "count": 5
   },
   {
     "repo": "UE-Tanks",
-    "uniques": 3,
-    "count": 3
+    "uniques": 4,
+    "count": 5
   },
   {
     "repo": "react-web-store",
-    "uniques": 3,
-    "count": 3
+    "uniques": 4,
+    "count": 5
   },
   {
     "repo": "react-forum",
+    "uniques": 4,
+    "count": 5
+  },
+  {
+    "repo": "POSIX-lab",
     "uniques": 3,
     "count": 3
   },
@@ -90,9 +90,9 @@
     "count": 3
   },
   {
-    "repo": "Casino-TDD",
+    "repo": "2D-sandbox",
     "uniques": 3,
-    "count": 3
+    "count": 4
   },
   {
     "repo": "ChatApplication",
