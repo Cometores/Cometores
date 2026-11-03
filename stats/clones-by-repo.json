@@ -1,28 +1,13 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 11,
-    "count": 14
+    "uniques": 9,
+    "count": 12
   },
   {
     "repo": "Anlzr",
-    "uniques": 8,
-    "count": 8
-  },
-  {
-    "repo": "spotify-telegram-bot",
     "uniques": 7,
-    "count": 8
-  },
-  {
-    "repo": "FBlockEXE",
-    "uniques": 7,
-    "count": 11
-  },
-  {
-    "repo": "Design-Patterns",
-    "uniques": 7,
-    "count": 8
+    "count": 7
   },
   {
     "repo": "Various-API-Standards",
@@ -35,17 +20,22 @@
     "count": 7
   },
   {
+    "repo": "FBlockEXE",
+    "uniques": 6,
+    "count": 10
+  },
+  {
     "repo": "Cmpr",
     "uniques": 6,
     "count": 6
   },
   {
-    "repo": "Casino-TDD",
-    "uniques": 6,
-    "count": 8
+    "repo": "WebApi-Auth",
+    "uniques": 5,
+    "count": 7
   },
   {
-    "repo": "WebApi-Auth",
+    "repo": "spotify-telegram-bot",
     "uniques": 5,
     "count": 6
   },
@@ -60,6 +50,16 @@
     "count": 6
   },
   {
+    "repo": "Design-Patterns",
+    "uniques": 5,
+    "count": 6
+  },
+  {
+    "repo": "Casino-TDD",
+    "uniques": 5,
+    "count": 7
+  },
+  {
     "repo": "Unity-Platformer",
     "uniques": 4,
     "count": 6
@@ -72,17 +72,17 @@
   {
     "repo": "react-forum",
     "uniques": 4,
-    "count": 5
+    "count": 6
+  },
+  {
+    "repo": "POSIX-lab",
+    "uniques": 4,
+    "count": 6
   },
   {
     "repo": "UE-Shooter",
     "uniques": 3,
     "count": 3
-  },
-  {
-    "repo": "POSIX-lab",
-    "uniques": 3,
-    "count": 4
   },
   {
     "repo": "ChatApplication",
