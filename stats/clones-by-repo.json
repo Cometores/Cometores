@@ -1,8 +1,8 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 9,
-    "count": 12
+    "uniques": 10,
+    "count": 13
   },
   {
     "repo": "Various-API-Standards",
@@ -11,13 +11,8 @@
   },
   {
     "repo": "FBlockEXE",
-    "uniques": 7,
-    "count": 11
-  },
-  {
-    "repo": "Cmpr",
-    "uniques": 7,
-    "count": 8
+    "uniques": 8,
+    "count": 13
   },
   {
     "repo": "Anlzr",
@@ -35,14 +30,29 @@
     "count": 8
   },
   {
+    "repo": "Design-Patterns",
+    "uniques": 6,
+    "count": 8
+  },
+  {
+    "repo": "Cmpr",
+    "uniques": 6,
+    "count": 7
+  },
+  {
+    "repo": "UE-Tanks",
+    "uniques": 5,
+    "count": 6
+  },
+  {
     "repo": "parallax-js",
     "uniques": 5,
     "count": 6
   },
   {
-    "repo": "UE-Tanks",
-    "uniques": 4,
-    "count": 5
+    "repo": "Microsoft-Setup",
+    "uniques": 5,
+    "count": 7
   },
   {
     "repo": "spotify-telegram-bot",
@@ -55,24 +65,9 @@
     "count": 5
   },
   {
-    "repo": "react-forum",
-    "uniques": 4,
-    "count": 6
-  },
-  {
     "repo": "POSIX-lab",
     "uniques": 4,
     "count": 6
-  },
-  {
-    "repo": "Microsoft-Setup",
-    "uniques": 4,
-    "count": 5
-  },
-  {
-    "repo": "Design-Patterns",
-    "uniques": 4,
-    "count": 5
   },
   {
     "repo": "Casino-TDD",
@@ -83,6 +78,11 @@
     "repo": "UE-Shooter",
     "uniques": 3,
     "count": 3
+  },
+  {
+    "repo": "react-forum",
+    "uniques": 3,
+    "count": 5
   },
   {
     "repo": "ChatApplication",
