@@ -1,8 +1,8 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 10,
-    "count": 13
+    "uniques": 11,
+    "count": 14
   },
   {
     "repo": "Various-API-Standards",
@@ -15,9 +15,9 @@
     "count": 13
   },
   {
-    "repo": "Anlzr",
+    "repo": "Design-Patterns",
     "uniques": 7,
-    "count": 8
+    "count": 9
   },
   {
     "repo": "WebApi-Auth",
@@ -30,9 +30,19 @@
     "count": 8
   },
   {
-    "repo": "Design-Patterns",
+    "repo": "UE-Tanks",
     "uniques": 6,
     "count": 8
+  },
+  {
+    "repo": "spotify-telegram-bot",
+    "uniques": 6,
+    "count": 9
+  },
+  {
+    "repo": "Microsoft-Setup",
+    "uniques": 6,
+    "count": 9
   },
   {
     "repo": "Cmpr",
@@ -40,9 +50,9 @@
     "count": 7
   },
   {
-    "repo": "UE-Tanks",
-    "uniques": 5,
-    "count": 6
+    "repo": "Anlzr",
+    "uniques": 6,
+    "count": 7
   },
   {
     "repo": "parallax-js",
@@ -50,14 +60,9 @@
     "count": 6
   },
   {
-    "repo": "Microsoft-Setup",
+    "repo": "2D-sandbox",
     "uniques": 5,
-    "count": 7
-  },
-  {
-    "repo": "spotify-telegram-bot",
-    "uniques": 4,
-    "count": 5
+    "count": 9
   },
   {
     "repo": "react-web-store",
@@ -75,6 +80,11 @@
     "count": 6
   },
   {
+    "repo": "unity-editor-tools",
+    "uniques": 3,
+    "count": 4
+  },
+  {
     "repo": "UE-Shooter",
     "uniques": 3,
     "count": 3
@@ -88,15 +98,5 @@
     "repo": "ChatApplication",
     "uniques": 3,
     "count": 4
-  },
-  {
-    "repo": "2D-sandbox",
-    "uniques": 3,
-    "count": 6
-  },
-  {
-    "repo": "unity-editor-tools",
-    "uniques": 2,
-    "count": 3
   }
 ]
