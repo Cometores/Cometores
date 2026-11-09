@@ -1,43 +1,38 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 10,
-    "count": 12
+    "uniques": 12,
+    "count": 14
   },
   {
     "repo": "Various-API-Standards",
-    "uniques": 7,
-    "count": 7
+    "uniques": 8,
+    "count": 9
   },
   {
     "repo": "FBlockEXE",
-    "uniques": 7,
-    "count": 11
+    "uniques": 8,
+    "count": 12
   },
   {
     "repo": "Design-Patterns",
-    "uniques": 6,
-    "count": 7
+    "uniques": 7,
+    "count": 9
   },
   {
-    "repo": "Cmpr",
+    "repo": "Unity-Platformer",
     "uniques": 6,
-    "count": 7
+    "count": 8
   },
   {
-    "repo": "Anlzr",
+    "repo": "Microsoft-Setup",
     "uniques": 6,
-    "count": 7
+    "count": 9
   },
   {
     "repo": "WebApi-Auth",
     "uniques": 5,
-    "count": 6
-  },
-  {
-    "repo": "Unity-Platformer",
-    "uniques": 5,
-    "count": 6
+    "count": 7
   },
   {
     "repo": "spotify-telegram-bot",
@@ -50,9 +45,14 @@
     "count": 6
   },
   {
-    "repo": "Microsoft-Setup",
+    "repo": "Cmpr",
     "uniques": 5,
-    "count": 7
+    "count": 6
+  },
+  {
+    "repo": "Anlzr",
+    "uniques": 5,
+    "count": 6
   },
   {
     "repo": "unity-editor-tools",
@@ -62,17 +62,12 @@
   {
     "repo": "UE-Tanks",
     "uniques": 4,
-    "count": 5
+    "count": 6
   },
   {
     "repo": "react-web-store",
     "uniques": 4,
     "count": 5
-  },
-  {
-    "repo": "POSIX-lab",
-    "uniques": 4,
-    "count": 6
   },
   {
     "repo": "2D-sandbox",
@@ -96,6 +91,11 @@
   },
   {
     "repo": "Casino-TDD",
+    "uniques": 3,
+    "count": 5
+  },
+  {
+    "repo": "POSIX-lab",
     "uniques": 2,
     "count": 3
   }
