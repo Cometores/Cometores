@@ -5,9 +5,9 @@
     "count": 17
   },
   {
-    "repo": "FBlockEXE",
+    "repo": "Design-Patterns",
     "uniques": 8,
-    "count": 10
+    "count": 12
   },
   {
     "repo": "Various-API-Standards",
@@ -15,22 +15,22 @@
     "count": 9
   },
   {
-    "repo": "Design-Patterns",
+    "repo": "FBlockEXE",
     "uniques": 7,
-    "count": 10
+    "count": 9
   },
   {
     "repo": "Unity-Platformer",
-    "uniques": 5,
-    "count": 7
+    "uniques": 6,
+    "count": 9
   },
   {
     "repo": "Microsoft-Setup",
-    "uniques": 5,
-    "count": 8
+    "uniques": 6,
+    "count": 9
   },
   {
-    "repo": "WebApi-Auth",
+    "repo": "unity-editor-tools",
     "uniques": 4,
     "count": 6
   },
@@ -45,12 +45,17 @@
     "count": 6
   },
   {
+    "repo": "Anlzr",
+    "uniques": 4,
+    "count": 5
+  },
+  {
     "repo": "2D-sandbox",
     "uniques": 4,
     "count": 7
   },
   {
-    "repo": "unity-editor-tools",
+    "repo": "WebApi-Auth",
     "uniques": 3,
     "count": 5
   },
@@ -65,13 +70,13 @@
     "count": 4
   },
   {
-    "repo": "Asset-store",
+    "repo": "react-web-store",
     "uniques": 3,
-    "count": 3
+    "count": 5
   },
   {
-    "repo": "react-web-store",
-    "uniques": 2,
+    "repo": "Asset-store",
+    "uniques": 3,
     "count": 3
   },
   {
@@ -85,28 +90,23 @@
     "count": 4
   },
   {
+    "repo": "parallax-js",
+    "uniques": 2,
+    "count": 4
+  },
+  {
     "repo": "Cmpr",
     "uniques": 2,
     "count": 3
   },
   {
-    "repo": "Casino-TDD",
+    "repo": "ChatApplication",
     "uniques": 2,
     "count": 4
   },
   {
-    "repo": "Anlzr",
+    "repo": "Casino-TDD",
     "uniques": 2,
-    "count": 3
-  },
-  {
-    "repo": "parallax-js",
-    "uniques": 1,
-    "count": 2
-  },
-  {
-    "repo": "ChatApplication",
-    "uniques": 1,
-    "count": 2
+    "count": 4
   }
 ]
