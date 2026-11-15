@@ -1,8 +1,13 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 15,
-    "count": 16
+    "uniques": 22,
+    "count": 24
+  },
+  {
+    "repo": "Design-Patterns",
+    "uniques": 10,
+    "count": 14
   },
   {
     "repo": "Various-API-Standards",
@@ -15,9 +20,9 @@
     "count": 11
   },
   {
-    "repo": "Design-Patterns",
-    "uniques": 9,
-    "count": 13
+    "repo": "Microsoft-Setup",
+    "uniques": 8,
+    "count": 11
   },
   {
     "repo": "Unity-Platformer",
@@ -25,9 +30,9 @@
     "count": 10
   },
   {
-    "repo": "Microsoft-Setup",
-    "uniques": 7,
-    "count": 10
+    "repo": "ts89070",
+    "uniques": 6,
+    "count": 7
   },
   {
     "repo": "unity-editor-tools",
@@ -35,14 +40,14 @@
     "count": 7
   },
   {
-    "repo": "ts89070",
-    "uniques": 5,
-    "count": 6
-  },
-  {
     "repo": "spotify-telegram-bot",
     "uniques": 5,
     "count": 7
+  },
+  {
+    "repo": "Asset-store",
+    "uniques": 5,
+    "count": 5
   },
   {
     "repo": "Anlzr",
@@ -75,11 +80,6 @@
     "count": 5
   },
   {
-    "repo": "Asset-store",
-    "uniques": 4,
-    "count": 4
-  },
-  {
     "repo": "UE-Shooter",
     "uniques": 3,
     "count": 4
@@ -106,7 +106,7 @@
   },
   {
     "repo": "Casino-TDD",
-    "uniques": 3,
-    "count": 5
+    "uniques": 2,
+    "count": 3
   }
 ]
