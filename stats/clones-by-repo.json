@@ -1,8 +1,8 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 22,
-    "count": 24
+    "uniques": 21,
+    "count": 23
   },
   {
     "repo": "Design-Patterns",
@@ -20,28 +20,23 @@
     "count": 11
   },
   {
-    "repo": "Microsoft-Setup",
-    "uniques": 8,
-    "count": 11
-  },
-  {
     "repo": "Unity-Platformer",
     "uniques": 7,
     "count": 10
   },
   {
-    "repo": "ts89070",
-    "uniques": 6,
-    "count": 7
+    "repo": "Microsoft-Setup",
+    "uniques": 7,
+    "count": 10
   },
   {
     "repo": "unity-editor-tools",
-    "uniques": 5,
-    "count": 7
+    "uniques": 6,
+    "count": 8
   },
   {
-    "repo": "spotify-telegram-bot",
-    "uniques": 5,
+    "repo": "ts89070",
+    "uniques": 6,
     "count": 7
   },
   {
@@ -50,27 +45,12 @@
     "count": 5
   },
   {
-    "repo": "Anlzr",
-    "uniques": 5,
-    "count": 6
-  },
-  {
     "repo": "2D-sandbox",
     "uniques": 5,
     "count": 8
   },
   {
-    "repo": "WebApi-Auth",
-    "uniques": 4,
-    "count": 6
-  },
-  {
     "repo": "UE-Tanks",
-    "uniques": 4,
-    "count": 6
-  },
-  {
-    "repo": "react-web-store",
     "uniques": 4,
     "count": 6
   },
@@ -80,17 +60,27 @@
     "count": 5
   },
   {
+    "repo": "Anlzr",
+    "uniques": 4,
+    "count": 5
+  },
+  {
+    "repo": "WebApi-Auth",
+    "uniques": 3,
+    "count": 4
+  },
+  {
     "repo": "UE-Shooter",
     "uniques": 3,
     "count": 4
   },
   {
-    "repo": "react-forum",
+    "repo": "spotify-telegram-bot",
     "uniques": 3,
     "count": 5
   },
   {
-    "repo": "POSIX-lab",
+    "repo": "react-web-store",
     "uniques": 3,
     "count": 5
   },
@@ -103,6 +93,16 @@
     "repo": "ChatApplication",
     "uniques": 3,
     "count": 5
+  },
+  {
+    "repo": "react-forum",
+    "uniques": 2,
+    "count": 3
+  },
+  {
+    "repo": "POSIX-lab",
+    "uniques": 2,
+    "count": 3
   },
   {
     "repo": "Casino-TDD",
