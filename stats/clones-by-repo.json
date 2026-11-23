@@ -1,18 +1,18 @@
 [
   {
     "repo": ".NET-toolbox",
-    "uniques": 37,
-    "count": 39
+    "uniques": 39,
+    "count": 41
   },
   {
     "repo": "Various-API-Standards",
-    "uniques": 10,
-    "count": 14
+    "uniques": 9,
+    "count": 12
   },
   {
     "repo": "Unity-Platformer",
     "uniques": 7,
-    "count": 10
+    "count": 9
   },
   {
     "repo": "ts89070",
@@ -20,29 +20,19 @@
     "count": 8
   },
   {
-    "repo": "FBlockEXE",
-    "uniques": 7,
-    "count": 8
-  },
-  {
     "repo": "Design-Patterns",
     "uniques": 7,
-    "count": 10
+    "count": 9
+  },
+  {
+    "repo": "FBlockEXE",
+    "uniques": 6,
+    "count": 7
   },
   {
     "repo": "unity-editor-tools",
     "uniques": 5,
     "count": 5
-  },
-  {
-    "repo": "Microsoft-Setup",
-    "uniques": 5,
-    "count": 6
-  },
-  {
-    "repo": "ChatApplication",
-    "uniques": 5,
-    "count": 7
   },
   {
     "repo": "Asset-store",
@@ -55,9 +45,14 @@
     "count": 5
   },
   {
-    "repo": "parallax-js",
+    "repo": "Microsoft-Setup",
     "uniques": 4,
-    "count": 6
+    "count": 4
+  },
+  {
+    "repo": "ChatApplication",
+    "uniques": 4,
+    "count": 5
   },
   {
     "repo": "Anlzr",
@@ -85,19 +80,9 @@
     "count": 3
   },
   {
-    "repo": "Casino-TDD",
+    "repo": "parallax-js",
     "uniques": 3,
     "count": 4
-  },
-  {
-    "repo": "WebApi-Auth",
-    "uniques": 2,
-    "count": 3
-  },
-  {
-    "repo": "UE-Tanks",
-    "uniques": 2,
-    "count": 3
   },
   {
     "repo": "UE-Shooter",
@@ -108,5 +93,20 @@
     "repo": "Cmpr",
     "uniques": 2,
     "count": 2
+  },
+  {
+    "repo": "Casino-TDD",
+    "uniques": 2,
+    "count": 2
+  },
+  {
+    "repo": "WebApi-Auth",
+    "uniques": 1,
+    "count": 1
+  },
+  {
+    "repo": "UE-Tanks",
+    "uniques": 1,
+    "count": 1
   }
 ]
